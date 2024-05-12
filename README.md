@@ -11,7 +11,7 @@
 6. Círculo: Leia o valor do raio de um círculo, e depois mostrar o valor da área do círculo com três casas decimais.
 7. Pagamento: Leia o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a quantidade de horas trabalhadas por ele(a).
 8. Consumo: Leia a distância total (em km) percorrida por um veículo, bem como o total de combustível gasto por este veículo ao percorrer tal distância. Mostre o consumo médio do veículo, com três casas decimais.
-9. Ler três medidas A, B, C. Em seguida, calcular e mostrar com quatro casas decimais a área do quadrado que tem lado A, a área do triângulo retângulo que tem base A e altura B, e a área do trapézio que tem bases A e B, e altura C.
+9. Medidas: Ler três medidas A, B, C. Em seguida, calcular e mostrar com quatro casas decimais a área do quadrado que tem lado A, a área do triângulo retângulo que tem base A e altura B, e a área do trapézio que tem bases A e B, e altura C.
 
 # Capítulo: Estrutura condicional 
 ## Chapter: Conditional structure
