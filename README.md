@@ -7,22 +7,45 @@ A estrutura sequencial é um dos fundamentos básicos da programação, essencia
 Em termos práticos, na estrutura sequencial, cada linha de código é executada do início ao fim, sem saltos ou desvios condicionais. Isso é ideal para operações simples e diretas, como cálculos matemáticos, atribuições de variáveis, entrada e saída de dados, entre outros procedimentos que não requerem decisões baseadas em condições.
 
 ### Exercícios
-1. Terreno: Ler as medidas de largura e comprimento de um terreno retangular com uma casa decimal, bem como o valor do metro quadrado (m²) do terreno com duas casas decimais. Em seguida, o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com duas casas decimais. O preço é dado pela multiplicação da área pelo valor do metro quadrado.
+1. Terreno: Leia as medidas de largura e comprimento de um terreno retangular com uma casa decimal, bem como o valor do metro quadrado (m²) do terreno com duas casas decimais. Em seguida, o algoritmo deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com duas casas decimais.
 
 ![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/f643d1ea-3778-49d8-ab74-f1d5e96beb47)
 
-2. Retângulo: Ler as medidas da base e altura de um retângulo. Em seguida, mostrar o valor da área, perímetro e diagonal deste retângulo, com quatro casas decimais.
+2. Retângulo: Leia as medidas da base e altura de um retângulo. Em seguida, mostre o valor da área, perímetro e diagonal deste retângulo, com quatro casas decimais.
 
 ![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/6e044aa6-8bef-4872-83f7-25921726837f)
 
-3. Idades: Leia o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade média entre essas duas pessoas, com uma casa decimal.
-4. Soma: Leia dois valores inteiros X e Y, e depois mostre na tela o valor da soma destes números. 
-5. Troco: Leia o preço unitário do produto, a quantidade de unidades compradas deste produto, e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Mostre o valor do troco a ser devolvido ao cliente. 
-6. Círculo: Leia o valor do raio de um círculo, e depois mostrar o valor da área do círculo com três casas decimais.
-7. Pagamento: Leia o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a quantidade de horas trabalhadas por ele(a).
+3. Idades: Leia o nome e idade de duas pessoas. Ao final mostre uma mensagem com os nomes e a idade média entre essas duas pessoas, com uma casa decimal.
+
+![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/c958e27f-4c38-4d7d-a59c-019f661609ff)
+
+4. Soma: Leia dois valores inteiros e depois mostre na tela o valor da soma destes números. 
+
+![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/cbf637d8-3ed0-4021-bb1c-89e3b2a3a36a)
+
+5. Troco: Leia o preço unitário do produto, a quantidade de unidades compradas deste produto, o valor em dinheiro dado pelo cliente e mostre o valor do troco a ser devolvido ao cliente. (suponha que haja dinheiro suficiente). 
+
+![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/d763ae3f-ec9b-4123-95f4-6ae879d617c0)
+ 
+6. Círculo: Leia o valor do raio de um círculo, e depois mostre o valor da área do círculo com três casas decimais.
+
+![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/35f02681-4188-43c7-9e49-8cd77cade750)
+
+7. Pagamento: Leia o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a quantidade de horas trabalhadas por ele(a). Depois mostre na tela com duas casas decimais.
+
+![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/66c6127a-f16d-455d-b988-6f2feef7c177)
+
 8. Consumo: Leia a distância total (em km) percorrida por um veículo, bem como o total de combustível gasto por este veículo ao percorrer tal distância. Mostre o consumo médio do veículo, com três casas decimais.
-9. Medidas: Ler três medidas A, B, C. Em seguida, calcular e mostrar com quatro casas decimais a área do quadrado que tem lado A, a área do triângulo retângulo que tem base A e altura B, e a área do trapézio que tem bases A e B, e altura C.
+
+![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/2c044190-ec11-40ea-9a3f-3794d8c8d059)
+
+9. Medidas: Leia três medidas A, B, C. Em seguida, calcule e mostre com quatro casas decimais a área do quadrado que tem lado A, a área do triângulo retângulo que tem base A e altura B, e a área do trapézio que tem bases A e B, e altura C.
+
+![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/4932c4ff-febc-4144-8ad0-acd05cba2bea)
+
 10. Duração: Faça um programa para ler uma duração de tempo em segundos, daí imprima na tela esta duração no formato horas:minutos:segundos.
+
+![image](https://github.com/ReisLeonardo/exercicios-terminal/assets/89877899/1161a4ce-f2bf-4351-a240-97f0d8dd7b3b)
 
 ## Estrutura condicional 
 A estrutura condicional é um conceito fundamental na programação, permitindo que um programa tome decisões com base em condições específicas. Essas estruturas são essenciais para controlar o fluxo de execução do programa de acordo com diferentes situações encontradas durante a sua execução.
