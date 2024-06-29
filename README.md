@@ -1,8 +1,6 @@
 # Exercícios comentados nas linguagens C, C++, Java, C# e Python
-## Commented exercises in C, C++, Java, C# and Python
 
 # Capítulo: Estrutura sequencial
-## Chapter: Sequence structure
 1. Terreno: Leia as medidas de largura e comprimento de um terreno retangular com uma casa decimal, bem como o valor do metro quadrado (m²) do terreno com duas casas decimais. Em seguida, o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com duas casas decimais.
 2. Retângulo: Leia as medidas da base e altura de um retângulo. Em seguida, mostrar o valor da área, perímetro e diagonal deste retângulo, com quatro casas decimais.
 3. Idades: Leia o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade média entre essas duas pessoas, com uma casa decimal.
@@ -14,7 +12,6 @@
 9. Medidas: Ler três medidas A, B, C. Em seguida, calcular e mostrar com quatro casas decimais a área do quadrado que tem lado A, a área do triângulo retângulo que tem base A e altura B, e a área do trapézio que tem bases A e B, e altura C.
 
 # Capítulo: Estrutura condicional 
-## Chapter: Conditional structure
 1. Lorem Ipsum
 2. Lorem Ipsum
 3. Lorem Ipsum
@@ -30,7 +27,6 @@
 13. Lorem Ipsum
 
 # Capítulo: Estrutura repetitiva 
-## Chapter: Repetitive structure
 1. Lorem Ipsum
 2. Lorem Ipsum
 3. Lorem Ipsum
@@ -49,7 +45,6 @@
 16. Lorem Ipsum
 
 # Capítulo: Vetores, arranjos ou arrays 
-## Chapter: Arrays (Unidimensional)
 1. Lorem Ipsum
 2. Lorem Ipsum
 3. Lorem Ipsum
@@ -64,7 +59,6 @@
 12. Lorem Ipsum
 
 # Capítulo: Matrizes, arranjos ou arrays 
-## Chapter: Arrays (Bidimensional)
 1. Lorem Ipsum
 2. Lorem Ipsum
 3. Lorem Ipsum
