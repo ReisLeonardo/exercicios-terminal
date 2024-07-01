@@ -1,6 +1,9 @@
 # Exercícios comentados nas linguagens C, C++, Java, C# e Python
 Tente executar os exercícios abaixo sem olhar a resolução deles na pasta de cada linguagem de programação. Lembre-se de que todos os exercícios devem ter um resultado no terminal, ou seja, não devem criar aplicativos ou janelas clicáveis com vários recursos. O objetivo destes exercícios é entender a lógica de cada linguagem.
 
+>[!WARNING]
+> Evite usar acentos gráficos ou caracteres especiais com a linguagem C e C++, pois precisam de manipulação de codificação de caracteres para suportar acentos gráficos, C#, Java e Python oferecem suporte nativo para Unicode, facilitando a inclusão de caracteres especiais diretamente no código.
+
 ## Estrutura sequencial
 A estrutura sequencial é um dos fundamentos básicos da programação, essencial para a execução de tarefas de maneira sequencial e linear. Nesse tipo de estrutura, as instruções são executadas uma após a outra, na ordem em que são escritas no código. Isso significa que cada instrução é processada em sequência, sem desvios ou condições que alterem o fluxo natural do programa.
 
