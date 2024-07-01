@@ -1,17 +1,19 @@
 /* Fazer um programa para ler as medidas da largura e comprimento de um terreno retangular com uma casa decimal, bem como o valor
-do metro quadrado do terreno com duas casas decimais. Em seguida, o programa deve mostrar o valor da área do terreno, bem como
-o valor do preço do terreno, ambos com duas casas decimais. */
+do metro quadrado do terreno com duas casas decimais. Em seguida, o programa deve mostrar o valor da ï¿½rea do terreno, bem como
+o valor do preï¿½o do terreno, ambos com duas casas decimais. */
 
-// Importando a biblioteca padrão da linguagem C
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
+
+// Importando a biblioteca padrï¿½o da linguagem C
 #include <stdio.h>
 
-// Corpo do código
+// Corpo do cï¿½digo
 int main() {
 
-    // Declarando as variáveis necessárias
+    // Declarando as variï¿½veis necessï¿½rias
     double largura, comprimento, metroQuadrado, area, preco;
 
-    // Entrada de dados e armazenamentos de dados nas variáveis
+    // Entrada de dados e armazenamentos de dados nas variï¿½veis
     printf("Digite a largura do terreno: ");
     scanf("%lf", &largura);
     printf("Digite o comprimento do terreno: ");
@@ -19,14 +21,14 @@ int main() {
     printf("Digite o valor do metro quadrado do terreno: ");
     scanf("%lf", &metroQuadrado);
 
-    // Cálculo matemático
+    // Cï¿½lculo matemï¿½tico
     area = largura * comprimento;
     preco = area * metroQuadrado;
 
-    // Saída de dados
-    printf("A area do terreno = %.2lf\n", area); // Não é possível pôr acentos na linguagem C de forma convencional.
+    // Saï¿½da de dados
+    printf("A area do terreno = %.2lf\n", area); // Nï¿½o ï¿½ possï¿½vel pï¿½r acentos na linguagem C de forma convencional.
     printf("O preco do terreno = %.2lf", preco);
 
 
-    return 0; // Estrutura necessária para terminar o código
+    return 0; // Estrutura necessï¿½ria para terminar o cï¿½digo
 }

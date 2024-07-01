@@ -1,5 +1,7 @@
 // Faça um programa para ler uma duração de tempo em segundos, daí imprima na tela esta duração no formato horas:minutos:segundos.
 
+// A linguagem C não lida muito bem com acentos! Então evite usá-los!
+
 #include <stdio.h>
 
 int main()

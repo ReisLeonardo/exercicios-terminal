@@ -1,11 +1,13 @@
-/* Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade média entre essas
+/* Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade mï¿½dia entre essas
 pessoas, com uma casa decimal. */
+
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
 
 #include <stdio.h>
 
 int main()
 {
-    // Declarando as variáveis
+    // Declarando as variï¿½veis
     char nome1[50], nome2[50];
     int idade1, idade2;
     double media;
@@ -13,21 +15,21 @@ int main()
     // Entrada de dados
     printf("Dados da primeira pessoa:\n");
     printf("Nome: ");
-    gets(nome1); // Se não tivesse esse comando ele iria pular para "Idade" da próxima etapa e ia bagunçar o programa.
+    gets(nome1); // Se nï¿½o tivesse esse comando ele iria pular para "Idade" da prï¿½xima etapa e ia bagunï¿½ar o programa.
     printf("Idade: ");
     scanf("%d", &idade1);
 
     printf("Dados da segunda pessoa:\n");
     printf("Nome: ");
-    fseek(stdin, 0, SEEK_END); // Usado pelo mesmo motivo do último aviso, mas para quebrar a linha nesse caso.
+    fseek(stdin, 0, SEEK_END); // Usado pelo mesmo motivo do ï¿½ltimo aviso, mas para quebrar a linha nesse caso.
     gets(nome2);
     printf("Idade: ");
     scanf("%d", &idade2);
 
-    // Artifício matemático para calcular a média das idades
-    media = (double) (idade1+idade2)/2; // Precisa forçar o casting do double
+    // Artifï¿½cio matemï¿½tico para calcular a mï¿½dia das idades
+    media = (double) (idade1+idade2)/2; // Precisa forï¿½ar o casting do double
 
-    // Saída de dados
+    // Saï¿½da de dados
     printf("A idade media de %s e %s e de %.1lf anos de idade", nome1, nome2, media);
 
     return 0;

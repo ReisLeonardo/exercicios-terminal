@@ -1,8 +1,10 @@
-/*Fazer um programa para ler três medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados com quatro casas decimais)
-A) A área do quadrado que tem lado A
-B) A área do triângulo retângulo que tem base A e altura B
-C) A área do trapézio que tem base A e B, e altura C
+/*Fazer um programa para ler trï¿½s medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados com quatro casas decimais)
+A) A ï¿½rea do quadrado que tem lado A
+B) A ï¿½rea do triï¿½ngulo retï¿½ngulo que tem base A e altura B
+C) A ï¿½rea do trapï¿½zio que tem base A e B, e altura C
 */
+
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
 
 #include <stdio.h>
 
@@ -18,12 +20,12 @@ int main()
     printf("Digite a medida C: ");
     scanf("%lf", &c);
 
-    // Artíficio matemático
+    // Artï¿½ficio matemï¿½tico
     areaQuadrado = a * a;
     areaTriangulo = (a*b)/2;
-    areaTrapezio = (a+b)*c/2; // É necessário o parenteses, pois a ordem de precedência é a soma!
+    areaTrapezio = (a+b)*c/2; // ï¿½ necessï¿½rio o parenteses, pois a ordem de precedï¿½ncia ï¿½ a soma!
 
-    // Saída de dados
+    // Saï¿½da de dados
     printf("Area do quadrado = %.4lf\n", areaQuadrado);
     printf("Area do triangulo = %.4lf\n", areaTriangulo);
     printf("Area do trapezio = %.4lf\n", areaTrapezio);

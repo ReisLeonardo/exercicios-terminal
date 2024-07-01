@@ -1,4 +1,6 @@
-/* Fazer um programa para ler o valor "r" do raio de um círculo, e depois mostrar o valor da área do círculo com três casas decimais. */
+/* Fazer um programa para ler o valor "r" do raio de um cï¿½rculo, e depois mostrar o valor da ï¿½rea do cï¿½rculo com trï¿½s casas decimais. */
+
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
 
 #include <stdio.h>
 
@@ -9,10 +11,10 @@ int main()
     printf("Digite o valor do raio do circulo: ");
     scanf("%lf", &raio);
 
-    // Artíficio matemático para calculo da área
+    // Artï¿½ficio matemï¿½tico para calculo da ï¿½rea
     area = 3.14159 * raio * raio;
 
-    // Saída de dados
+    // Saï¿½da de dados
     printf("AREA = %.3lf", area);
 
     return 0;

@@ -1,26 +1,28 @@
-/* Fazer um programa para ler as medidas da base e altura de um retângulo. Em seguida, mostrar o valor da área, perímetro e diagonal
-deste retângulo, com quatro casas decimais. */
+/* Fazer um programa para ler as medidas da base e altura de um retï¿½ngulo. Em seguida, mostrar o valor da ï¿½rea, perï¿½metro e diagonal
+deste retï¿½ngulo, com quatro casas decimais. */
+
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
 
 #include <stdio.h>
 #include <math.h>
 
 int main()
 {
-    // Definindo as variáveis
+    // Definindo as variï¿½veis
     double base, altura, area, perimetro, diagonal;
 
-    // Entrada de dados e armazenamento de dados nas variáveis
+    // Entrada de dados e armazenamento de dados nas variï¿½veis
     printf("Base do retangulo: ");
     scanf("%lf", &base);
     printf("Altura do retangulo: ");
     scanf("%lf", &altura);
 
-    // Artíficios matemáticos do programa
+    // Artï¿½ficios matemï¿½ticos do programa
     area = base*altura;
     perimetro = 2*base + 2*altura;
-    diagonal = sqrt(pow(base, 2) + pow(altura, 2)); // sqrt é raiz quadrada e pow é potência
+    diagonal = sqrt(pow(base, 2) + pow(altura, 2)); // sqrt ï¿½ raiz quadrada e pow ï¿½ potï¿½ncia
 
-    // Saída de dados
+    // Saï¿½da de dados
     printf("Area = %.4lf\n", area);
     printf("Perimetro = %.4lf\n", perimetro);
     printf("Diagonal = %.4lf\n", diagonal);

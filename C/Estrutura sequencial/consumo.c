@@ -1,11 +1,13 @@
-/* Fazer um programa para ler a distância total (em km) percorrida por um veículo, bem como o total de combustível gasto por este veículo ao percorrer
-tal distância. Seu programa deve mostrar o consumo médio do carro, com três casas decimais.*/
+/* Fazer um programa para ler a distï¿½ncia total (em km) percorrida por um veï¿½culo, bem como o total de combustï¿½vel gasto por este veï¿½culo ao percorrer
+tal distï¿½ncia. Seu programa deve mostrar o consumo mï¿½dio do carro, com trï¿½s casas decimais.*/
+
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
 
 #include <stdio.h>
 
 int main()
 {
-    // Recomendo usar nomes menores para as variáveis
+    // Recomendo usar nomes menores para as variï¿½veis
     double consumoMedio, combustivelGasto;
     int distanciaPercorrida;
 
@@ -14,10 +16,10 @@ int main()
     printf("Combustivel gasto: ");
     scanf("%lf", &combustivelGasto);
 
-    // Artíficio matemático
+    // Artï¿½ficio matemï¿½tico
     consumoMedio = distanciaPercorrida / combustivelGasto;
 
-    // Saída de dados
+    // Saï¿½da de dados
     printf("Consumo medio = %.3lf", consumoMedio);
 
     return 0;

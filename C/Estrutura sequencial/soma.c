@@ -1,10 +1,12 @@
-// Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da soma destes números.
+// Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da soma destes nï¿½meros.
+
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
 
 #include <stdio.h>
 
 int main()
 {
-    // Definindo as variáveis
+    // Definindo as variï¿½veis
     int x, y, soma;
 
     // Entrada de dados
@@ -13,10 +15,10 @@ int main()
     printf("Digite o valor de Y: ");
     scanf("%d", &y);
 
-    // Artifício matemático para calcular a soma
+    // Artifï¿½cio matemï¿½tico para calcular a soma
     soma = x+y;
 
-    // Saída de dados
+    // Saï¿½da de dados
     printf("SOMA = %d", soma);
 
 

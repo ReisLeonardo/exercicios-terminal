@@ -1,5 +1,7 @@
-/*Fazer um programa para ler o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a quantidade de horas trabalhadas por ele(a). Ao final
-mostrar o valor do pagamento do funcionário(a) com uma mensagem explicativa.*/
+/*Fazer um programa para ler o nome de um(a) funcionï¿½rio(a), o valor que ele(a) recebe por hora, e a quantidade de horas trabalhadas por ele(a). Ao final
+mostrar o valor do pagamento do funcionï¿½rio(a) com uma mensagem explicativa.*/
+
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
 
 #include <stdio.h>
 
@@ -16,10 +18,10 @@ int main()
     printf("Horas trabalhadas: ");
     scanf("%d", &valorTrabalhado);
 
-    // Artíficio matemático
+    // Artï¿½ficio matemï¿½tico
     pagamento = valorHora * valorTrabalhado;
 
-    // Saída de dados
+    // Saï¿½da de dados
     printf("O pagamento para %s deve ser R$ %.3lf", nome, pagamento);
 
     return 0;

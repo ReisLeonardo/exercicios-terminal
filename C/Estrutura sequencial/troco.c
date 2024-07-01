@@ -1,12 +1,14 @@
-/*Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia. O programa deve ler o preço
-unitário do produto, a quantidade de unidades compradas deste produto, e o valor em dinheiro dado pelo cliente (suponha que
+/*Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia. O programa deve ler o preï¿½o
+unitï¿½rio do produto, a quantidade de unidades compradas deste produto, e o valor em dinheiro dado pelo cliente (suponha que
 haja dinheiro suficiente para o troco). Seu programa deve mostrar o valor do troco a ser devolvido ao cliente.*/
+
+// A linguagem C nÃ£o lida muito bem com acentos! EntÃ£o evite usÃ¡-los!
 
 #include <stdio.h>
 
 int main()
 {
-    // Definindo as variáveis
+    // Definindo as variï¿½veis
     double precoUnitario, precoTotal, troco, dinheiroRecebido;
     int quantidade;
 
@@ -18,11 +20,11 @@ int main()
     printf("Dinheiro recebido: ");
     scanf("%lf", &dinheiroRecebido);
 
-    // Artíficio matemático para o troco
+    // Artï¿½ficio matemï¿½tico para o troco
     precoTotal = precoUnitario * quantidade;
     troco = dinheiroRecebido - precoTotal;
 
-    // Saída de dados
+    // Saï¿½da de dados
     printf("Troco = %.2lf", troco);
 
     return 0;
