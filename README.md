@@ -174,8 +174,8 @@ Variavel | Tipo | Fórmula
 --- | --- | ---
 duracao | inteiro | Hora = duração / 3600
 hora | inteiro | Resto = duração % 3600 (resto da divisão)
-resto | inteiro
-minuto | inteiro
+resto | inteiro | Minuto = resto / 60
+minuto | inteiro | Segundo = resto % 60 (resto da divisão)
 segundo | inteiro
 
 **Resultado esperado:** {hora}:{minuto}:{segundo}
