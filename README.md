@@ -16,13 +16,13 @@ Em termos práticos, na estrutura sequencial, cada linha de código é executada
 
 Leia as medidas de largura e comprimento de um terreno retangular com uma casa decimal, bem como o valor do metro quadrado (m²) do terreno com duas casas decimais. Em seguida, o algoritmo deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com duas casas decimais.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
-Largura | decimal (flutuante) | Área = largura x comprimento
-Comprimento | decimal (flutuante) | Preço = área x metro quadrado
-Metro quadrado | decimal (flutuante)
-Área | decimal (flutuante)
-Preço | decimal (flutuante)
+largura | decimal (flutuante) | Área = largura x comprimento
+comprimento | decimal (flutuante) | Preço = área x metro quadrado
+metroquadrado | decimal (flutuante)
+area | decimal (flutuante)
+preço | decimal (flutuante)
 
 **Resultado esperado**: A área do terreno é {area com 4 casas decimais}m² e o seu preço é R${preco}.
 
@@ -34,11 +34,11 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Leia as medidas da base e altura de um retângulo. Em seguida, mostre o valor da área, perímetro e diagonal deste retângulo, com quatro casas decimais.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 base | decimal (flutuante) | Área = base x altura
 altura | decimal (flutuante) | Perímetro = 2*(base+altura)
-area | decimal (flutuante) | Diagonal = raíz de a²+b²
+area | decimal (flutuante) | Diagonal = raíz de base²+altura²
 perimetro | decimal (flutuante)
 diagonal | decimal (flutuante)
 
@@ -50,7 +50,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 **Situação-problema:** Leia o nome e idade de duas pessoas. Ao final mostre uma mensagem com os nomes e a idade média entre essas duas pessoas, com uma casa decimal.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 nome1 | caractere | Média das idade = (idade1 + idade2) / 2
 nome2 | caractere | 
@@ -58,7 +58,7 @@ idade1 | inteiro
 idade2 | inteiro
 mediaidade | decimal (flutuante)
 
-**Resultado esperado**: A área do retângulo é {area}, seu perímetro é {perimetro} e a diagonal é {diagonal}.
+**Resultado esperado**: A idade média de {nome1} e {nome2} é de {mediaidade} anos.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/idades.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/idades.cpp), [C#](#), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/idades.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/idades.py).
 
@@ -69,7 +69,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Leia dois valores inteiros e depois mostre na tela o valor da soma destes números.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 x | inteiro | Soma = x + y
 y | inteiro | 
@@ -85,7 +85,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Leia o preço unitário do produto, a quantidade de unidades compradas deste produto, o valor em dinheiro dado pelo cliente e mostre o valor do troco a ser devolvido ao cliente. (suponha que haja dinheiro suficiente). 
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 precoUnitario | decimal (flutuante) | Preço total = preço unitário x quantidade
 precoTotal | decimal (flutuante) | Troco = dinheiro recebido - preço total
@@ -103,7 +103,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Leia o valor do raio de um círculo, e depois mostre o valor da área do círculo com três casas decimais.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 raio | decimal (flutuante) | Área = π x r²
 area | decimal (flutuante)
@@ -118,7 +118,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Leia o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a quantidade de horas trabalhadas por ele(a). Depois mostre na tela com duas casas decimais.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 nome | caractere | Pagamento = valor da hora x hora(s) trabalhada(s)
 valorHora | decimal (flutuante)
@@ -135,13 +135,13 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Leia a distância total (em km) percorrida por um veículo, bem como o total de combustível gasto por este veículo ao percorrer tal distância. Mostre o consumo médio do veículo, com três casas decimais.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 distanciaPercorrida | inteiro | Consumo médio = distância percorrida / combustível gasto
 combustivelGasto | decimal (flutuante)
 consumoMedio | decimal (flutuante)
 
-**Resultado esperado:** O consumo médio é de {consumomedio}km.
+**Resultado esperado:** O consumo médio foi de {consumomedio}km.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/consumo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/consumo.cpp), [C#](#), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/consumo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/consumo.py).
 
@@ -151,7 +151,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Leia três medidas A, B, C. Em seguida, calcule e mostre com quatro casas decimais a área do quadrado que tem lado A, a área do triângulo retângulo que tem base A e altura B, e a área do trapézio que tem bases A e B, e altura C.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 a | decimal (flutuante) | Área do quadrado = a²
 b | decimal (flutuante) | Área do triângulo = (a x b) / 2
@@ -170,7 +170,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Faça um programa para ler uma duração de tempo em segundos, daí imprima na tela esta duração no formato horas:minutos:segundos.
 
-Variavel | Tipo | Fórmula
+Variável | Tipo | Fórmula
 --- | --- | ---
 duracao | inteiro | Hora = duração / 3600
 hora | inteiro | Resto = duração % 3600 (resto da divisão)
