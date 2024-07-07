@@ -2,6 +2,8 @@
 // o aluno obteve (com uma casa decimal) no ano juntamente com um texto aplicativo. Caso a nota final do aluno seja inferior a 60.00, mostrar a mensagem
 // "REPROVADO".
 
+// // A linguagem C não lida muito bem com acentos! Então evite usá-los!
+
 // Biblioteca(s)
 #include <stdio.h>
 #include <stdlib.h>
