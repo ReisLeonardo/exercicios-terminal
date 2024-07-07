@@ -224,7 +224,7 @@ x2 | decimal (flutuante)
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/baskara.c), [C++](), [C#](), [Java]() e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/baskara.py).
 
-### 3. Menore de três (3️⃣):
+### 3. Menor de três (3️⃣):
 
 **Situação-problema:** Mostre o menor dos números digitados
 
