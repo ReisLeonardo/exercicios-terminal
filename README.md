@@ -1,6 +1,13 @@
 # Exercícios comentados nas linguagens C, C++, Java, C# e Python
 Tente executar os exercícios abaixo sem olhar a resolução deles na pasta de cada linguagem de programação. Lembre-se de que todos os exercícios devem ter um resultado no terminal, ou seja, não devem criar aplicativos ou janelas clicáveis com vários recursos. O objetivo destes exercícios é entender a lógica de cada linguagem.
 
+>[!TIP]
+> A escolha da IDE (Ambiente de Desenvolvimento Integrado) correta é crucial para turbinar sua produtividade e impulsionar seus projetos de programação. Cada linguagem possui ferramentas específicas que facilitam a escrita, depuração e execução do código, otimizando seu workflow e te aproximando do sucesso.
+> - C e C++ - [CodeBlocks](https://www.codeblocks.org/downloads/)
+> - C# - [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
+> - Java - [Eclipse](https://eclipseide.org/)
+> - Python - [Pycharm](https://www.jetbrains.com/pt-br/pycharm/download/) ou [Visual Studio Code](https://code.visualstudio.com/download)
+
 >[!WARNING]
 > Evite utilizar acentos gráficos ou caracteres especiais com a linguagem C e C++, pois precisam de manipulação de codificação de caracteres para suportar acentos gráficos, C#, Java e Python oferecem suporte nativo para Unicode, facilitando a inclusão de caracteres especiais diretamente no código.
 
