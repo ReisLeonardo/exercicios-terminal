@@ -185,7 +185,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 ## Estrutura condicional 
 A estrutura condicional é um conceito fundamental na programação, permitindo que um programa tome decisões com base em condições específicas. Essas estruturas são essenciais para controlar o fluxo de execução do programa de acordo com diferentes situações encontradas durante a sua execução.
 
-### Exercícios
+## Exercícios
 ### 1. Notas (🧑‍🎓):
 
 **Situação-problema:** Leia duas notas e mostre o resultado de aprovado ou reprovado.
