@@ -186,9 +186,61 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 A estrutura condicional é um conceito fundamental na programação, permitindo que um programa tome decisões com base em condições específicas. Essas estruturas são essenciais para controlar o fluxo de execução do programa de acordo com diferentes situações encontradas durante a sua execução.
 
 ### Exercícios
-1. Lorem Ipsum
-2. Lorem Ipsum
-3. Lorem Ipsum
+### 1. Notas (🧑‍🎓):
+
+**Situação-problema:** Leia duas notas e mostre o resultado de aprovado ou reprovado.
+
+Faça um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de uma disciplina anual. Em seguida, mostre a nota final que o aluno obteve (com uma casa decimal) no ano juntamente com um texto explicativo. Caso a nota final do aluno seja inferior a 60.00, mostrar a mensagem "REPROVADO".
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+nota1 | decimal (flutuante) | soma = nota1 + nota2
+nota2 | decimal (flutuante)
+soma | decimal (flutuante)
+
+**Resultado esperado:** A sua nota final foi {soma}, você foi {resultado}.
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/notas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/notas.cpp), [C#](), [Java]() e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/notas.py).
+
+### 2. Baskara (🧮):
+
+**Situação-problema:** Leia três coeficientes e calcule a fórmula de baskara.
+
+Faça um programa para ler os três coeficientes de uma equação do segundo grau. Usando a fórmula de Baskara, calcule e mostre os valores das raízes x1 e x2 da equação com quatro casas decimais. Se a equação não possuir raízes reais, mostre uma mensagem.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+a | inteiro | delta = b² - 4 x a x c
+b | inteiro | x = -b+/- raiz de delta / 2 x a
+c | inteiro
+x1 | decimal (flutuante)
+x2 | decimal (flutuante)
+
+**Condições para ter raízes:**
+* Delta não pode ser negativo.
+* Coeficiente "a" não pode ser zero.
+
+**Resultado esperado:** O x1 = {x1} e o x2 = {x2}. / Esta equação não possui raízes reais.
+
+Verifique as soluções nas linguagens [C](), [C++](), [C#](), [Java]() e [Python]().
+
+### 3. Menore de três (3️⃣):
+
+**Situação-problema:**
+
+Faça um programa para ler três números inteiros. Em seguida, mostre qual o menor dentre os três números lidos. Em caso de empate, mostre apenas uma vez.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+valor1 | inteiro
+valor2 | inteiro
+valor3 | inteiro
+menor | inteiro
+
+**Resultado esperado:** O menor valor é {menor}.
+
+Verifique as soluções nas linguagens [C](), [C++](), [C#](), [Java]() e [Python]().
+
 4. Lorem Ipsum
 5. Lorem Ipsum
 6. Lorem Ipsum
