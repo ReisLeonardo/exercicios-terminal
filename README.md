@@ -210,9 +210,9 @@ Faça um programa para ler os três coeficientes de uma equação do segundo gra
 
 Variável | Tipo | Fórmula
 --- | --- | ---
-a | inteiro | delta = b² - 4 x a x c
-b | inteiro | x = -b+/- raiz de delta / 2 x a
-c | inteiro
+a | decimal (flutuante) | delta = b² - 4 x a x c
+b | decimal (flutuante) | x = -b + raiz de delta / 2 x a
+c | decimal (flutuante) | x2 = -b - raiz de delta / 2 x a
 x1 | decimal (flutuante)
 x2 | decimal (flutuante)
 
@@ -222,11 +222,11 @@ x2 | decimal (flutuante)
 
 **Resultado esperado:** O x1 = {x1} e o x2 = {x2}. / Esta equação não possui raízes reais.
 
-Verifique as soluções nas linguagens [C](), [C++](), [C#](), [Java]() e [Python]().
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/baskara.c), [C++](), [C#](), [Java]() e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/baskara.py).
 
 ### 3. Menore de três (3️⃣):
 
-**Situação-problema:**
+**Situação-problema:** Mostre o menor dos números digitados
 
 Faça um programa para ler três números inteiros. Em seguida, mostre qual o menor dentre os três números lidos. Em caso de empate, mostre apenas uma vez.
 
@@ -239,10 +239,40 @@ menor | inteiro
 
 **Resultado esperado:** O menor valor é {menor}.
 
-Verifique as soluções nas linguagens [C](), [C++](), [C#](), [Java]() e [Python]().
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/menor.c), [C++](), [C#](), [Java]() e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/menor.py).
 
-4. Lorem Ipsum
-5. Lorem Ipsum
+### 4. Operadora (🌐):
+
+**Situação-problema:** Informe ao consumidor quanto ele(a) deve pagar pelos minutos consumidos.
+
+Uma operadora de telefonia cobra R$ 50,00 por um plano básico que dá direito a 100 minutos de telefone. Cada minuto que exceder a franquia de 100 minutos custa R$ 2,00. Faça um programa para ler a quantidade de minutos que uma pessoa consumiu, daí mostre o valor a ser pago.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+minutos | inteiro | gasto = 2 * (minutos - 100)
+pagar | inteiro
+gasto | inteiro
+
+**Resultado esperado:** O(a) cliente deve pagar R$ {pagar} por ter consumido {minutos} minuto(s).
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/operadora.c), [C++](), [C#](), [Java]() e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/operadora.py).
+
+### 5. Troco verificado (💰):
+
+**Situação-problema:** Informe quanto o(a) cliente deve receber de troco, e se não dinheiro recebido não for suficiente informe quanto precisa para quitar a compra.
+
+Faça um programa para calcular o troco no processo de pagamento de um produto de uma mercearia. O programa deve ler o preço unitário do produto, a quantidade de unidades compradas deste produto, e o valor em dinheiro dado pelo cliente. Seu programa deve mostrar o valor do troco a ser devolvido ao cliente. Se o dinheiro dado pelo cliente não for suficiente, mostrar uma mensagem informando o valor restante.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+unidade | decimal (flutuante) | total = unidade x quantidade
+quantidade | inteiro | troco = recebido - total
+recebido | decimal (flutuante)
+
+**Resultado esperado:** O(a) cliente comprou no total R${total}, pagou R${recebido} e portanto o seu troco é de R${troco}. / Dinheiro insuficiente. Faltam R${troco}. 
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/troco.c), [C++](), [C#](), [Java]() e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/troco.py).
+
 6. Lorem Ipsum
 7. Lorem Ipsum
 8. Lorem Ipsum
