@@ -295,7 +295,7 @@ Diabetes | Maior que 140 mg/dl
 Variável | Tipo
 --- | ---
 glicose | decimal (flutuante)
-classificacao | decimal (flutuante)
+classificacao | caractere
 
 **Resultado esperado:** Classificação: {classificacao}.
 
