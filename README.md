@@ -237,8 +237,8 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 Faça um programa para ler três números inteiros. Em seguida, mostre qual o menor dentre os três números lidos. Em caso de empate, mostre apenas uma vez.
 
-Variável | Tipo | Fórmula
---- | --- | ---
+Variável | Tipo
+--- | --- 
 valor1 | inteiro
 valor2 | inteiro
 valor3 | inteiro
@@ -280,7 +280,27 @@ recebido | decimal (flutuante)
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/troco.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/troco.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/troco.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/troco.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/troco.py).
 
-6. Lorem Ipsum
+### 6. Glicose (🩸):
+
+**Situação-problema:** Leia a glicose e informe o seu nível de acordo com os dados de uma tabela.
+
+Faça um programa que leia a quantidade de glicose no sangue de uma pessoa e depois mostre na tela a classificação desta glicose de acordo com os dados.
+
+Classificação | Glicose
+--- | ---
+Normal | Até 100 mg/dl
+Elevado | Maior que 100 até 140 mg/dl
+Diabetes | Maior que 140 mg/dl
+
+Variável | Tipo
+--- | ---
+glicose | decimal (flutuante)
+classificacao | caractere
+
+**Resultado esperado:** Classificação: {classificacao}.
+
+Verifique as soluções nas linguagens [C](), [C++](), [C#](), [Java]() e [Python]().
+
 7. Lorem Ipsum
 8. Lorem Ipsum
 9. Lorem Ipsum
