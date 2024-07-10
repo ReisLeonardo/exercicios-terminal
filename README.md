@@ -299,10 +299,43 @@ classificacao | caractere
 
 **Resultado esperado:** Classificação: {classificacao}.
 
-Verifique as soluções nas linguagens [C](), [C++](), [C#](), [Java]() e [Python]().
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/glicose.c).
 
-7. Lorem Ipsum
-8. Lorem Ipsum
+### 7. Dardo (🎯):
+
+**Situação-problema:**  Diga qual foi o dardo que percorreu a maior distância em um lançamento.
+
+No arremesso de dardo, o atleta tem três chances para lançar o dardo à maior distância que conseguir. Crie um programa para, dadas as medidas das três tentativas de lançamento, informar qual foi a maior.
+
+Variável | Tipo
+--- | ---
+distancia1 | decimal (flutuante)
+distancia2 | decimal (flutuante)
+distancia3 | decimal (flutuante)
+maior | decimal (flutuante)
+
+**Resultado esperado:** A maior distancia é {maior}.
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/dardo.c).
+
+### 8. Temperatura (🥶):
+
+**Situação-problema:** Converta as temperaturas de celsius para fahrenheit ou vice-versa.
+
+Deseja-se converter uma medida de temperatura da escala Celsius para Fahrenheit ou vice-versa. Para isso, construa um programa para ler a letra "C" ou "F" indicando em qual escala vai ser informada uma temperatura. Em seguida o programa deve mostrar a temperatura na outra escala com duas casas decimais.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+Escala | caractere simples | Celsius para Fahrenheit = (celsius) * 1,8 + 32
+Celsius | decimal (flutuante) | Fahrenheit para Celsius = (5 / 9) * (fahrenheit - 32)
+celsiustof | decimal (flutuante)
+fahrenheit | decimal (flutuante)
+fahrenheittoc | decimal (flutuante)
+
+**Resultado esperado:** A temperatura equivale a {celsiustof/fahrenheittoc} ºC(F).
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/temperatura.c).
+
 9. Lorem Ipsum
 10. Lorem Ipsum
 11. Lorem Ipsum
