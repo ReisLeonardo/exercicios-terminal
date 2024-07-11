@@ -336,9 +336,11 @@ fahrenheittoc | decimal (flutuante)
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/temperatura.c).
 
-### 9. Lanchonete (🍔): Informe ao cliente quanto ele(a) deve pagar pelos items do menu de uma lanchonete.
+### 9. Lanchonete (🍔): 
 
-**Situação-problema:** Uma lanchonete possui vários produtos. Cada produto possui um código e um preço. Faça um programa para ler o código e a quantidade comprada de um produto (suponha um código válido), e daí informe qual o valor a ser pago, com duas casas decimais.
+**Situação-problema:** Informe ao cliente quanto ele(a) deve pagar pelos items do menu de uma lanchonete.
+
+Uma lanchonete possui vários produtos. Cada produto possui um código e um preço. Faça um programa para ler o código e a quantidade comprada de um produto (suponha um código válido), e daí informe qual o valor a ser pago, com duas casas decimais.
 
 Código do produto | Preço do produto
 --- | ---
