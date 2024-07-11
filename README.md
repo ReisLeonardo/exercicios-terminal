@@ -336,8 +336,44 @@ fahrenheittoc | decimal (flutuante)
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/temperatura.c).
 
-9. Lorem Ipsum
-10. Lorem Ipsum
+### 9. Lanchonete (🍔): Informe ao cliente quanto ele(a) deve pagar pelos items do menu de uma lanchonete.
+
+**Situação-problema:** Uma lanchonete possui vários produtos. Cada produto possui um código e um preço. Faça um programa para ler o código e a quantidade comprada de um produto (suponha um código válido), e daí informe qual o valor a ser pago, com duas casas decimais.
+
+Código do produto | Preço do produto
+--- | ---
+1 | R$ 5
+2 | R$ 3,50
+3 | 4,80
+4 | R$ 8,90
+5 | R$ 7,32
+
+Variável | Tipo
+--- | ---
+codigo | decimal (flutuante)
+pagar | decimal (flutuante)
+quantidade | inteiro
+
+**Resultado esperado:** O valor que deve ser pago pelo(a) cliente é de R$ {pagar}.
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/lanchonete.c).
+
+### 10. Múltiplos (✖️):
+
+**Situação-problema:** Informe se os números digitados são multíplos
+
+Faça um programa para ler dois números inteiros, e dizer se um número é múltiplo do outro. Os números podem ser digitados em qualquer ordem.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+x | inteiro | Se o resto da divisão for 0 é múltiplo
+y | inteiro | Se o resto da divisão for 0 não é múltiplo
+novo | inteiro 
+
+**Resultado esperado:** São múltiplo / Não são múltiplos.
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/multiplos.c).
+
 11. Lorem Ipsum
 12. Lorem Ipsum
 13. Lorem Ipsum
