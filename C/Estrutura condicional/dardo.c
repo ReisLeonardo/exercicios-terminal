@@ -1,5 +1,3 @@
-// No arremesso de dardo, o atleta tem três chances para lançar o dardo à maior distância que conseguir. Crie um programa para, dadas as medidas das três tentativas de lançamento, informar qual foi a maior.
-
 // Bibiloteca(s)
 #include <stdio.h>
 

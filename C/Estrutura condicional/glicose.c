@@ -1,5 +1,3 @@
-// Faça um programa que leia a quantidade de glicose no sangue de uma pessoa e depois mostre na tela a classificação desta glicose de acordo com os dados.
-
 // Bibiloteca(s)
 #include <stdio.h>
 

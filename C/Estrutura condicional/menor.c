@@ -1,7 +1,3 @@
-// Faça um programa para ler três números inteiros. Em seguida, mostre qual o menor dentre os três números lidos. Em caso de empate, mostre apenas uma vez.
-
-// A linguagem C não lida muito bem com acentos! Então evite usá-los!
-
 // Biblioteca(s)
 #include <stdio.h>
 
