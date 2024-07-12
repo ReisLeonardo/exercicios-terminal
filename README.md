@@ -376,9 +376,37 @@ novo | inteiro
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/multiplos.c).
 
-11. Lorem Ipsum
-12. Lorem Ipsum
-13. Lorem Ipsum
+### 11. Tempo de jogo (🎮):
+
+**Situação-problema:**
+
+Leia a hora inicial e a final de um jogo. E em seguida, calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+horaInicial | inteiro | Se menor que 24, hora = (24 - horainicial) + horaFinal
+horaFinal | inteiro | Se maior que 24, hora = hora - 24
+hora | inteiro
+
+
+**Resultado esperado:** O jogo durou {duracao} hora(s).
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/tempo.c).
+
+### 12. Coordenadas (🔲):
+
+**Situação-problema:** Informe em qual quadrante está localizado as coordendas, sabendo que (Q1 = x e y positivo, Q2 = x negativo e y positivo, Q3 = x e y negativo, Q4 = y negativo e x positivo.
+
+Leia os valores das coordenadas X e Y de um ponto no plano cartesiano. A seguir, determine qual o quadrante pertence o ponto (Q1, Q2, Q3 ou Q4). Se o ponto estiver na origem, escreva a mensagem "origem". Se o ponto estiver sobre um dos eixos escreva "Eixo X" ou "Eixo Y".
+
+Variável | Tipo 
+--- | ---
+x | decimal (flutuante)
+y | decimal (flutuante)
+
+**Resultado esperado:** Suas coordenadas pertencem a {posicao}.
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/coordenadas.c).
 
 ## Estrutura repetitiva
 A estrutura repetitiva, também conhecida como estrutura de repetição ou estrutura de loop, é utilizada na programação para executar um bloco de código repetidamente enquanto uma condição específica for verdadeira, ou por um número pré-determinado de vezes. Essa capacidade é fundamental para automatizar tarefas que precisam ser executadas várias vezes sem a necessidade de repetir o mesmo código manualmente.
