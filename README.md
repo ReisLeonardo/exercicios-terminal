@@ -299,7 +299,7 @@ classificacao | caractere
 
 **Resultado esperado:** Classificação: {classificacao}.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/glicose.c).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/glicose.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/glicose.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/glicose.py).
 
 ### 7. Dardo (🎯):
 
@@ -316,7 +316,7 @@ maior | decimal (flutuante)
 
 **Resultado esperado:** A maior distancia é {maior}.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/dardo.c).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/dardo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/dardo.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/dardo.py).
 
 ### 8. Temperatura (🥶):
 
@@ -334,7 +334,7 @@ fahrenheittoc | decimal (flutuante)
 
 **Resultado esperado:** A temperatura equivale a {celsiustof/fahrenheittoc} ºC(F).
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/temperatura.c).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/temperatura.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/temperatura.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/temperatura.py).
 
 ### 9. Lanchonete (🍔): 
 
@@ -352,13 +352,13 @@ Código do produto | Preço do produto
 
 Variável | Tipo
 --- | ---
-codigo | decimal (flutuante)
+codigo | inteiro
 pagar | decimal (flutuante)
 quantidade | inteiro
 
 **Resultado esperado:** O valor que deve ser pago pelo(a) cliente é de R$ {pagar}.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/lanchonete.c).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/lanchonete.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/lanchonete.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/lanchonete.py).
 
 ### 10. Múltiplos (✖️):
 
@@ -370,13 +370,36 @@ Variável | Tipo | Fórmula
 --- | --- | ---
 x | inteiro | Se o resto da divisão for 0 é múltiplo
 y | inteiro | Se o resto da divisão for 0 não é múltiplo
-novo | inteiro 
 
 **Resultado esperado:** São múltiplo / Não são múltiplos.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/multiplos.c).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/multiplos.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/multiplos.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/multiplos.py).
 
-### 11. Tempo de jogo (🎮):
+### 11. Aumento (🤑):
+
+**Situação-problema:** Mostre quanto o(a) funcionário(a) recebeu de aumento.
+
+Uma empresa vai conceder um aumento percentual de salário aos seus funcionários dependendo de quanto cada pessoa ganha, conforme a tabela abaixo. Faça um programa ler o salário de uma pessoa e mostrar o novo salário desta pessoa depois do aumento, quanto foi o aumento e qual foi a porcentagem.
+
+Salário atual | Aumento
+--- | ---
+Até R$1.000 | 20%
+Mais de R$1.000 e até R$3.000 | 15%
+Mais de R$3.000 e até R$8.000 | 10%
+Acima de R$8.000 | 5%
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+salario | decimal (flutuante) | aumento = salario * porcentagem
+porcentagem | inteiro ou decimal | novo salário = salario + aumento
+aumento | decimal (flutuante)
+novosalario | decimal (flutuante)
+
+**Resultado esperado:** O novo salário foi de R${novosalario}, o aumento foi de R$ {aumento} e a porcentagem corresponde a {porcentagem}%.
+
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/aumento.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/aumento.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/aumento.py).
+
+### 12. Tempo de jogo (🎮):
 
 **Situação-problema:**
 
@@ -391,9 +414,9 @@ hora | inteiro
 
 **Resultado esperado:** O jogo durou {duracao} hora(s).
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/tempo.c).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/tempo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/tempo.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/tempo.py).
 
-### 12. Coordenadas (🔲):
+### 13. Coordenadas (🔲):
 
 **Situação-problema:** Informe em qual quadrante está localizado as coordendas, sabendo que (Q1 = x e y positivo, Q2 = x negativo e y positivo, Q3 = x e y negativo, Q4 = y negativo e x positivo.
 
@@ -406,7 +429,7 @@ y | decimal (flutuante)
 
 **Resultado esperado:** Suas coordenadas pertencem a {posicao}.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/coordenadas.c).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/coordenadas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/coordenadas.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/coordenadas.py).
 
 ## Estrutura repetitiva
 A estrutura repetitiva, também conhecida como estrutura de repetição ou estrutura de loop, é utilizada na programação para executar um bloco de código repetidamente enquanto uma condição específica for verdadeira, ou por um número pré-determinado de vezes. Essa capacidade é fundamental para automatizar tarefas que precisam ser executadas várias vezes sem a necessidade de repetir o mesmo código manualmente.
