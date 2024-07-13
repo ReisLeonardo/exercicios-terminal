@@ -1,5 +1,3 @@
-// Faça um programa para ler três números inteiros. Em seguida, mostre qual o menor dentre os três números lidos. Em caso de empate, mostre apenas uma vez.
-
 // Importando biblioteca
 import java.util.Scanner;
 

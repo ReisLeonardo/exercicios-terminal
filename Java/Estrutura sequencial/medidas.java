@@ -1,8 +1,4 @@
-// # Fazer um programa para ler três medidas A, B, C. Em seguida, calcular e mostrar (imprimir os dados com quatro casas decimais): 
-// A) a área do quadrado que tem lado A (A²)
-// B) a área do triângulo retângulo que tem base A e altura B
-// C) a área do trapézio que tem bases A e B, e altura C
-
+// Importando biblioteca
 import java.util.Scanner;
 
 public class medidas {

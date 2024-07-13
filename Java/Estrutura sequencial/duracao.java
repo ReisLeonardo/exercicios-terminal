@@ -1,5 +1,4 @@
-// Faça um programa para ler uma duração de tempo em segundos, daí imprima na tela esta duração no formato horas:minutos:segundos.
-
+// Importando biblioteca
 import java.util.Scanner;
 
 public class duracao {

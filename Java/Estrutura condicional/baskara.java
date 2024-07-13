@@ -1,5 +1,3 @@
-// Faça um programa para ler os três coeficientes de uma equação do segundo grau. Usando a fórmula de Baskara, calcule e mostre os valores das raízes x1 e x2 da equação com quatro casas decimais. Se a equação não possuir raízes reais, mostre uma mensagem.
-
 // Importando biblioteca
 import java.util.Scanner;
 
