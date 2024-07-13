@@ -1,7 +1,3 @@
-// Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade média entre essas pessoas, com uma casa decimal.
-
-// A linguagem C++ não lida muito bem com acentos! Então evite usá-los!
-
 // Biblioteca
 #include <bits/stdc++.h>
 

@@ -1,7 +1,3 @@
-// Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da soma destes números.
-
-// A linguagem C++ não lida muito bem com acentos! Então evite usá-los!
-
 // Biblioteca
 #include <bits/stdc++.h>
 

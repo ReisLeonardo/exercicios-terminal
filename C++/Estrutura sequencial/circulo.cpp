@@ -1,7 +1,3 @@
-// Fazer um programa para ler o valor "r" do raio de um círculo, e depois mostrar o valor da área do círculo com três casas decimais. Você pode usar o valor de pi fornecido pela biblioca, ou então, se preferir, use diretamente o valor 3.14159.
-
-// A linguagem C++ não lida muito bem com acentos! Então evite usá-los!
-
 // Biblioteca
 #include <bits/stdc++.h>
 

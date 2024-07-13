@@ -1,5 +1,3 @@
-# Faça um programa para ler três números inteiros. Em seguida, mostre qual o menor dentre os três números lidos. Em caso de empate, mostre apenas uma vez.
-
 # Entrada de dados
 valor1 = int(input("Digite o primeiro valor: "))
 valor2 = int(input("Digite o segundo valor: "))

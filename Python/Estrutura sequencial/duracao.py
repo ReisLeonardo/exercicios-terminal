@@ -1,5 +1,3 @@
-# Faça um programa para ler uma duração de tempo em segundos, daí imprima na tela esta duração no formato horas:minutos:segundos.
-
 # Variáveis
 # Em Python não é necessário fazer esse passo...
 duracao: int; hora: int; resto: int; minuto: int; segundo: int;

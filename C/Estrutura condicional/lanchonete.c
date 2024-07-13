@@ -4,13 +4,13 @@
 int main()
 {
     // Variáveis
-    double codigo, pagar;
-    int quantidade;
+    double pagar;
+    int quantidade, codigo;
 
 
     // Entrada de dados
     printf("Digite o codigo do produto comprado: ");
-    scanf("%lf", &codigo);
+    scanf("%d", &codigo);
 
     printf("Quantidade comprada: ");
     scanf("%d", &quantidade);

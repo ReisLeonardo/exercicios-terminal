@@ -4,7 +4,7 @@
 int main()
 {
     // Variáveis
-    int x, y, novo;
+    int x, y;
 
 
     // Entrada de dados
