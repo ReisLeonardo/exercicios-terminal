@@ -435,9 +435,50 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 A estrutura repetitiva, também conhecida como estrutura de repetição ou estrutura de loop, é utilizada na programação para executar um bloco de código repetidamente enquanto uma condição específica for verdadeira, ou por um número pré-determinado de vezes. Essa capacidade é fundamental para automatizar tarefas que precisam ser executadas várias vezes sem a necessidade de repetir o mesmo código manualmente.
 
 ### Exercícios
-1. Lorem Ipsum
-2. Lorem Ipsum
-3. Lorem Ipsum
+
+### 1. Crescente (📈):
+
+**Situação-problema:** Faça um programa que leia dois números inteiros diferentes e diga se está na ordem crescente ou decrescente, se for digitado o mesmo número finalize o programa.
+
+Leia dois inteiros X e Y. Escreva para cada X e Y uma mensagem que indique se estes valores foram digitados em ordem crescente ou decrescente. O programa deve finalizar quando forem digitados dois valores iguais.
+
+Variável | Tipo 
+--- | ---
+x | inteiro
+y | inteiro
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens
+
+### 2. Média idades (🧑‍🤝‍🧑):
+
+**Situação-problema:** Leia diversas idades e mostre a média no final, se o resultado inicial for negativo não calcule.
+
+Leia um número indeterminado de dados, contendo cada um, a idade de um indivíduo. O último dado, que não entrará nos cálculos, contém um valor de idade negativa. Calcule e imprima a idade média deste grupo de indivíduos. Se for entrado um valor negativo na primeira vez, mostre a mensagem "impossível calcular".
+
+Variável | Tipo 
+--- | ---
+x | inteiro
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens
+
+### 3. Senha fixa (💻):
+
+**Situação-problema:** Leia as tentativas de acesso de senha e conceda o acesso apenas quando for a senha correta. Senha: 2024.
+
+Repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha incorreta informada, escreva a mensagem "Senha inválida! Tente novamente: ". Quando a senha for informada corretamente deve ser impressa a mensagem "Acesso permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2024.
+
+Variável | Tipo 
+--- | ---
+senha | inteiro
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens
+
 4. Lorem Ipsum
 5. Lorem Ipsum
 6. Lorem Ipsum
