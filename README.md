@@ -449,7 +449,7 @@ y | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C]() e [Python]().
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/crescente.c) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/crescente.py).
 
 ### 2. Média idades (🧑‍🤝‍🧑):
 
@@ -459,11 +459,14 @@ Leia um número indeterminado de dados, contendo cada um, a idade de um indivíd
 
 Variável | Tipo 
 --- | ---
-x | inteiro
+soma | inteiro
+contador | inteiro
+idade | inteiro
+media | decimal (flutuante)
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/media.c) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/media.py).
 
 ### 3. Senha fixa (💻):
 
@@ -477,7 +480,7 @@ senha | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/senha.c) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/senha.py).
 
 4. Lorem Ipsum
 5. Lorem Ipsum
