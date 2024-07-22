@@ -482,8 +482,37 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/senha.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/senha.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/senha.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/senha.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/senha.py).
 
-4. Lorem Ipsum
-5. Lorem Ipsum
+### 4. Quadrante (🔲):
+
+**Situação-problema:**
+
+Leia as coordenadas X e Y de uma quantidade indeterminada de pontos no sistema cartesiano. Para cada ponto escreva o quadrante a que ele pertence (Q1, Q2, Q3 ou Q4). O algoritmo será encerrado quando pelo menos uma de duas coordendas for NULA (Pertence a origem ou a algum dos eixos).
+
+Variável | Tipo 
+--- | ---
+x | inteiro
+y | inteiro
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens
+
+### 5. Validação de nota (👨‍🎓):
+
+**Situação-problema:** Leia duas notas e dê a média, até que o valor 0 seja digitado nas duas.
+
+Leia as notas referentes às duas avaliações de um aluno. Calcule e imprima a média semestral. Faça com que o algoritmo só aceite notas válidas (uma nota válida deve pertencer ao intervalo 0 - 10). Cada nota deve seer validada separadamente. Encerre o algoritmo quando for digitado os valores 0 em ambas as notas.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+nota1 | decimal (flutuante) | Média = nota1 + nota2 / 2
+nota2 | decimal (flutuante)
+media | decimal (flutuante)
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens
+
 6. Lorem Ipsum
 7. Lorem Ipsum
 8. Lorem Ipsum
