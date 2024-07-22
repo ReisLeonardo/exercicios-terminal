@@ -484,7 +484,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 ### 4. Quadrante (🔲):
 
-**Situação-problema:**
+**Situação-problema:** Leia X e Y e diga o quadrante no sistema cartesiano. O algoritmo encerra quando é digitado uma posição especifíca do eixo ou quando está na origem (0,0).
 
 Leia as coordenadas X e Y de uma quantidade indeterminada de pontos no sistema cartesiano. Para cada ponto escreva o quadrante a que ele pertence (Q1, Q2, Q3 ou Q4). O algoritmo será encerrado quando pelo menos uma de duas coordendas for NULA (Pertence a origem ou a algum dos eixos).
 
@@ -495,7 +495,7 @@ y | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/quadrante.py).
 
 ### 5. Validação de nota (👨‍🎓):
 
@@ -511,7 +511,7 @@ media | decimal (flutuante)
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/validacao.py).
 
 6. Lorem Ipsum
 7. Lorem Ipsum
