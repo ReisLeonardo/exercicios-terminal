@@ -15,6 +15,8 @@ if (x != 0 and y != 0):
             print("Suas coordendas pertencem ao terceiro quadrante (Q3).")
         else:
             print("Suas coordendas pertencem ao quarto quadrante (Q4).")
+
+        # Entrada de dados
         x = int(input("Digite o valor de X: "))
         y = int(input("Digite o valor de Y: "))
 
