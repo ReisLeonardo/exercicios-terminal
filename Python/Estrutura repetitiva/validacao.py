@@ -16,6 +16,7 @@ if (nota1 == 0 and nota2 == 0):
 else:
     media = (nota1+nota2) / 2
     print(f"A média entre {nota1} + {nota2} é de {media:.2f}.\n")
+    # Estrutura repetitiva
     while (nota1 != 0 and nota2 != 0):
         
         # Entrada de dados
