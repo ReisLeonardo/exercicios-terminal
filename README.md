@@ -431,7 +431,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/coordenadas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/coordenadas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/coordenadas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/coordenadas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/coordenadas.py).
 
-## Estrutura repetitiva
+## Estrutura repetitiva - while
 A estrutura repetitiva, também conhecida como estrutura de repetição ou estrutura de loop, é utilizada na programação para executar um bloco de código repetidamente enquanto uma condição específica for verdadeira, ou por um número pré-determinado de vezes. Essa capacidade é fundamental para automatizar tarefas que precisam ser executadas várias vezes sem a necessidade de repetir o mesmo código manualmente.
 
 ### Exercícios
@@ -513,17 +513,49 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/validacao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/validacao.cpp) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/validacao.py).
 
+### 6. Combustível (🛢️):
+
+**Situação-problema:** Digite valores e mostre no final a quantidade de dados digitados e imprima uma mensagem de "MUITO OBRIGADO".
+
+Um posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva um algoritmo que leia o tipo de combustível abastecido (codificado da seguinte forma: 1. Álcool 2. Gasolina 3. Diesel 4. Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa será encerrado quando o código informado for o número 4, devendo então mostrar a mensagem "MUITO OBRIGADO", bem como as quantidades de cada combustível.
+
+Variável | Tipo
+--- | ---
+codigo | inteiro
+alcool | inteiro
+gasolina | inteiro
+diesel | inteiro
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/combustivel.py).
+
+### 7. Pares consecutivos (2️⃣):
+
+**Situação-problema:** Some os 5 pares consecutivos de um número diferente de 0 e mostre o resultado no final.
+
+O programa deve ler um valor inteiro X indefinidas vezes. (O programa irá parar quando o valor de X for igual a 0). Para cada X lido, imprima a soma dos 5 pares consecutivos a partir de X, inclusive o X, se for par. Se o valor de entrada for 4, por exemplo, a saída deve ser 40, que é o resultado da operação: 4+6+8+10+12, enquanto que se o valor de entrada for 11, por exemplo, a saída deve ser 80, que é a soma de 12+14+16+18+20.
+
+Variável | Tipo
+--- | ---
+numero | inteiro
+soma | inteiro
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/pares.py).
+
+## Estrutura repetitiva - for
+
+1. Lorem Ipsum
+2. Lorem Ipsum
+3. Lorem Ipsum
+4. Lorem Ipsum
+5. Lorem Ipsum
 6. Lorem Ipsum
 7. Lorem Ipsum
 8. Lorem Ipsum
 9. Lorem Ipsum
-10. Lorem Ipsum
-11. Lorem Ipsum
-12. Lorem Ipsum
-13. Lorem Ipsum
-14. Lorem Ipsum
-15. Lorem Ipsum
-16. Lorem Ipsum
 
 ## Vetores, arranjos ou arrays
 Vetores, arranjos ou arrays são estruturas de dados fundamentais na programação que permitem armazenar múltiplos valores do mesmo tipo em uma única variável. Eles são amplamente utilizados para manipular coleções de dados de forma eficiente e organizada.
