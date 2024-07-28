@@ -547,15 +547,104 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 ## Estrutura repetitiva - for
 
-1. Lorem Ipsum
-2. Lorem Ipsum
-3. Lorem Ipsum
-4. Lorem Ipsum
-5. Lorem Ipsum
-6. Lorem Ipsum
-7. Lorem Ipsum
-8. Lorem Ipsum
-9. Lorem Ipsum
+### 1. Tabuada (🧮):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/tabuada.py).
+
+### 2. Soma ímpares (➕):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/soma.py).
+
+### 3. Sequência ímpares (➗):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/sequencia.py).
+
+### 4. Dentro fora (💠):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/dentro.py).
+
+### 5. Par ímpar (❓):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/impar.py).
+
+### 6. Média ponderada (📑):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/ponderada.py).
+
+### 7. Divisão (➗):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/divisao.py).
+
+### 8. Fatorial (❗):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/fatorial.py).
+
+### 9. Experiências (🧪):
+
+**Situação-problema:**
+
+Variável | Tipo
+--- | ---
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/experiencias.py).
 
 ## Vetores, arranjos ou arrays
 Vetores, arranjos ou arrays são estruturas de dados fundamentais na programação que permitem armazenar múltiplos valores do mesmo tipo em uma única variável. Eles são amplamente utilizados para manipular coleções de dados de forma eficiente e organizada.
