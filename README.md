@@ -17,7 +17,7 @@ A estrutura sequencial é um dos fundamentos básicos da programação, essencia
 Em termos práticos, na estrutura sequencial, cada linha de código é executada do início ao fim, sem saltos ou desvios condicionais. Isso é ideal para operações simples e diretas, como cálculos matemáticos, atribuições de variáveis, entrada e saída de dados, entre outros procedimentos que não requerem decisões baseadas em condições.
 
 ## Exercícios
-### 1. Terreno (🏠):
+### 1. Terreno (🏠)
 
 **Situação-problema:** Calcule a área e o preço de um terreno.
 
@@ -35,7 +35,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/terreno.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/terreno.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/terreno.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/terreno.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/tereno.py).
 
-### 2. Retângulo: 
+### 2. Retângulo (🍞)
 
 **Situação-problema:** Mostre o valor da área, perímetro e diagonal comm quatro casas decimais.
 
@@ -53,7 +53,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/retangulo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/retangulo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/retangulo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/retangulo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/retangulo.py).
 
-### 3. Idades (🧑‍🤝‍🧑):
+### 3. Idades (🧑‍🤝‍🧑)
 
 **Situação-problema:** Leia o nome e idade de duas pessoas. Ao final mostre uma mensagem com os nomes e a idade média entre essas duas pessoas, com uma casa decimal.
 
@@ -70,7 +70,7 @@ Assista [aqui](#) o resultado esperado do programa.
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/idades.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/idades.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/idades.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/idades.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/idades.py).
 
 
-### 4. Soma (🧮): 
+### 4. Soma (🧮)
 
 **Situação-problema:** Some dois valores inteiros (x + y).
 
@@ -86,7 +86,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/soma.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/soma.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/soma.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/soma.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/soma.py).
 
-### 5. Troco (💰): 
+### 5. Troco (💰)
 
 **Situação-problema:** Mostre o valor do troco a ser devolvido ao cliente.
 
@@ -104,7 +104,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/troco.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/troco.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/troco.cs), [Java]([#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/troco.java)) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/troco.py).
 
-### 6. Círculo (🔴): 
+### 6. Círculo (🔴)
 
 **Situação-problema:** Mostre a área do círculo com base no seu raio.
 
@@ -119,7 +119,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/c%C3%ADrculo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/circulo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/circulo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/circulo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/circulo.py).
 
-### 7. Pagamento (💳): 
+### 7. Pagamento (💳)
 
 **Situação-problema:** Mostre o pagamento que um(a) funcionário(a) deve receber.
 
@@ -136,7 +136,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/pagamento.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/pagamento.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/pagamento.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/pagamento.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/pagamento.py).
 
-### 8. Consumo (🚙): 
+### 8. Consumo (🚙)
 
 **Situação-problema:** Mostre o consumo médio de um veículo.
 
@@ -152,7 +152,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/consumo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/consumo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/consumo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/consumo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/consumo.py).
 
-### 9. Medidas (📐): 
+### 9. Medidas (📐)
 
 **Situação=problema:** Mostre o resultado da área do quadrado, triângulo e trapézio das medidas A, B e C.
 
@@ -171,7 +171,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/medidas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/medidas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/medidas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/medidas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/medidas.py).
 
-### 10. Duração (⏰): 
+### 10. Duração (⏰)
 
 **Situação-problema:** Imprima a relação hora:minuto:segundos de x segundos.
 
@@ -193,7 +193,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 A estrutura condicional é um conceito fundamental na programação, permitindo que um programa tome decisões com base em condições específicas. Essas estruturas são essenciais para controlar o fluxo de execução do programa de acordo com diferentes situações encontradas durante a sua execução.
 
 ## Exercícios
-### 1. Notas (🧑‍🎓):
+### 1. Notas (🧑‍🎓)
 
 **Situação-problema:** Leia duas notas e mostre o resultado de aprovado ou reprovado.
 
@@ -209,7 +209,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/notas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/notas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/notas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/notas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/notas.py).
 
-### 2. Baskara (🧮):
+### 2. Baskara (🧮)
 
 **Situação-problema:** Leia três coeficientes e calcule a fórmula de baskara.
 
@@ -231,7 +231,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/baskara.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/baskara.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/baskara.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/baskara.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/baskara.py).
 
-### 3. Menor de três (3️⃣):
+### 3. Menor de três (3️⃣)
 
 **Situação-problema:** Mostre o menor dos números digitados
 
@@ -248,7 +248,7 @@ menor | inteiro
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/menor.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/menor.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/menor.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/menor.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/menor.py).
 
-### 4. Operadora (🌐):
+### 4. Operadora (🌐)
 
 **Situação-problema:** Informe ao consumidor quanto ele(a) deve pagar pelos minutos consumidos.
 
@@ -264,7 +264,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/operadora.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/operadora.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/operadora.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/operadora.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/operadora.py).
 
-### 5. Troco verificado (💰):
+### 5. Troco verificado (💰)
 
 **Situação-problema:** Informe quanto o(a) cliente deve receber de troco, e se não dinheiro recebido não for suficiente informe quanto precisa para quitar a compra.
 
@@ -280,7 +280,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/troco.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/troco.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/troco.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/troco.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/troco.py).
 
-### 6. Glicose (🩸):
+### 6. Glicose (🩸)
 
 **Situação-problema:** Leia a glicose e informe o seu nível de acordo com os dados de uma tabela.
 
@@ -301,7 +301,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/glicose.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/glicose.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/glicose.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/glicose.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/glicose.py).
 
-### 7. Dardo (🎯):
+### 7. Dardo (🎯)
 
 **Situação-problema:**  Diga qual foi o dardo que percorreu a maior distância em um lançamento.
 
@@ -318,7 +318,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/dardo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/dardo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/dardo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/dardo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/dardo.py).
 
-### 8. Temperatura (🥶):
+### 8. Temperatura (🥶)
 
 **Situação-problema:** Converta as temperaturas de celsius para fahrenheit ou vice-versa.
 
@@ -336,7 +336,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/temperatura.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/temperatura.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/temperatura.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/temperatura.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/temperatura.py).
 
-### 9. Lanchonete (🍔): 
+### 9. Lanchonete (🍔)
 
 **Situação-problema:** Informe ao cliente quanto ele(a) deve pagar pelos items do menu de uma lanchonete.
 
@@ -360,7 +360,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/lanchonete.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/lanchonete.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/lanchonete.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/lanchonete.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/lanchonete.py).
 
-### 10. Múltiplos (✖️):
+### 10. Múltiplos (✖️)
 
 **Situação-problema:** Informe se os números digitados são multíplos
 
@@ -375,7 +375,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/multiplos.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/multiplos.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/multiplos.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/multiplos.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/multiplos.py).
 
-### 11. Aumento (🤑):
+### 11. Aumento (🤑)
 
 **Situação-problema:** Mostre quanto o(a) funcionário(a) recebeu de aumento.
 
@@ -399,7 +399,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/aumento.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/aumento.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/aumento.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/aumento.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/aumento.py).
 
-### 12. Tempo de jogo (🎮):
+### 12. Tempo de jogo (🎮)
 
 **Situação-problema:**
 
@@ -416,7 +416,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/tempo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/tempo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/tempo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/tempo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/tempo.py).
 
-### 13. Coordenadas (🔲):
+### 13. Coordenadas (🔲)
 
 **Situação-problema:** Informe em qual quadrante está localizado as coordendas, sabendo que (Q1 = x e y positivo, Q2 = x negativo e y positivo, Q3 = x e y negativo, Q4 = y negativo e x positivo.
 
@@ -436,7 +436,7 @@ A estrutura repetitiva, também conhecida como estrutura de repetição ou estru
 
 ### Exercícios
 
-### 1. Crescente (📈):
+### 1. Crescente (📈)
 
 **Situação-problema:** Faça um programa que leia dois números inteiros diferentes e diga se está na ordem crescente ou decrescente, se for digitado o mesmo número finalize o programa.
 
@@ -451,7 +451,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/crescente.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/crescente.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/crescente.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/crescente.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/crescente.py).
 
-### 2. Média idades (🧑‍🤝‍🧑):
+### 2. Média idades (🧑‍🤝‍🧑)
 
 **Situação-problema:** Leia diversas idades e mostre a média no final, se o resultado inicial for negativo não calcule.
 
@@ -468,7 +468,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/media.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/media.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/media.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/media.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/media.py).
 
-### 3. Senha fixa (💻):
+### 3. Senha fixa (💻)
 
 **Situação-problema:** Leia as tentativas de acesso de senha e conceda o acesso apenas quando for a senha correta. Senha: 2024.
 
@@ -482,7 +482,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/senha.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/senha.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/senha.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/senha.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/senha.py).
 
-### 4. Quadrante (🔲):
+### 4. Quadrante (🔲)
 
 **Situação-problema:** Leia X e Y e diga o quadrante no sistema cartesiano. O algoritmo encerra quando é digitado uma posição especifíca do eixo ou quando está na origem (0,0).
 
@@ -497,7 +497,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/quadrante.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/quadrante.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/quadrante.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/quadrante.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/quadrante.py).
 
-### 5. Validação de nota (👨‍🎓):
+### 5. Validação de nota (👨‍🎓)
 
 **Situação-problema:** Leia duas notas e dê a média, até que o valor 0 seja digitado nas duas.
 
@@ -513,7 +513,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/validacao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/validacao.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/validacao.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/validacao.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/validacao.py).
 
-### 6. Combustível (🛢️):
+### 6. Combustível (🛢️)
 
 **Situação-problema:** Digite valores e mostre no final a quantidade de dados digitados e imprima uma mensagem de "MUITO OBRIGADO".
 
@@ -530,7 +530,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/combustivel.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/combustivel.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/combustivel.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/combustivel.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/combustivel.py).
 
-### 7. Pares consecutivos (2️⃣):
+### 7. Pares consecutivos (2️⃣)
 
 **Situação-problema:** Some os 5 pares consecutivos de um número diferente de 0 e mostre o resultado no final.
 
@@ -547,7 +547,7 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 ## Estrutura repetitiva - for
 
-### 1. Tabuada (🧮):
+### 1. Tabuada (🧮)
 
 **Situação-problema:** Leia um número inteiro N, daí mostre a tabuada de 1 a 10.
 
@@ -561,7 +561,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/tabuada.py).
 
-### 2. Soma ímpares (➕):
+### 2. Soma ímpares (➕)
 
 **Situação-problema:** Leia dois valores inteiros X e Y (em qualquer ordem), daí calcule e mostre a soma dos números ímpares entre eles.
 
@@ -577,7 +577,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/soma.py).
 
-### 3. Sequência ímpares (➗):
+### 3. Sequência ímpares (➗)
 
 **Situação-problema:** Leia um valor inteiro X, daí mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
 
@@ -590,7 +590,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/sequencia.py).
 
-### 4. Dentro fora (💠):
+### 4. Dentro fora (💠)
 
 **Situação-problema:** Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Mostre quantos destes valores X estão dentro do intervalo 10 a 20 e quantos estão fora do intervalo.
 
@@ -606,7 +606,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/dentro.py).
 
-### 5. Par ímpar (❓):
+### 5. Par ímpar (❓)
 
 **Situação-problema:** Leia um valor inteiro N. Este valor será a quantidade de números inteiros que serão lidos em seguida. Para cada valor lido, mostre uma mensagem dizendo se este valor lido é PAR ou ÍMPAR, e também se é POSITIVO ou NEGATIVO. No caso do valor ser igual a zero (0), imprima o resultado "NULO".
 
@@ -620,7 +620,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/impar.py).
 
-### 6. Média ponderada (📑):
+### 6. Média ponderada (📑)
 
 **Situação-problema:** Leia um valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de teste consiste de 3 valores reais, calcule e mostre a média ponderada, sendo que o primeiro valor tem peso 2, o segundo valor tem peso 3 e terceiro valor tem peso 5.
 
@@ -637,7 +637,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/ponderada.py).
 
-### 7. Divisão (➗):
+### 7. Divisão (➗)
 
 **Situação-problema:** Escreva um algoritmo que leia dois úmeros e imprima o resultado da divisão do primeiro pelo segundo. Caso não for possível, mostre a mensagem "DIVISÃO IMPOSSÍVEL".
 
@@ -653,7 +653,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/divisao.py).
 
-### 8. Fatorial (❗):
+### 8. Fatorial (❗)
 
 **Situação-problema:** Faça um programa para ler um número natural (no máximo 15), e depois calcule e mostre o fatorial dele.
 
@@ -667,7 +667,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/fatorial.py).
 
-### 9. Experiências (🧪):
+### 9. Experiências (🧪)
 
 **Situação-problema:** Leia os dados de um experimento e imprima o resultado do total e percentual.
 
