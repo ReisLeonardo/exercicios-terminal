@@ -431,7 +431,7 @@ Assista [aqui](#) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/coordenadas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/coordenadas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/coordenadas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/coordenadas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/coordenadas.py).
 
-## Estrutura repetitiva - while / for
+## Estrutura repetitiva - while 
 A estrutura repetitiva, também conhecida como estrutura de repetição ou estrutura de loop, é utilizada na programação para executar um bloco de código repetidamente enquanto uma condição específica for verdadeira, ou por um número pré-determinado de vezes. Essa capacidade é fundamental para automatizar tarefas que precisam ser executadas várias vezes sem a necessidade de repetir o mesmo código manualmente.
 
 ### Exercícios
@@ -549,10 +549,13 @@ Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exerc
 
 ### 1. Tabuada (🧮):
 
-**Situação-problema:**
+**Situação-problema:** Leia um número inteiro N, daí mostre a tabuada de 1 a 10.
 
 Variável | Tipo
 --- | ---
+n | inteiro
+i | inteiro
+tabuada | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
@@ -560,10 +563,15 @@ Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/
 
 ### 2. Soma ímpares (➕):
 
-**Situação-problema:**
+**Situação-problema:** Leia dois valores inteiros X e Y (em qualquer ordem), daí calcule e mostre a soma dos números ímpares entre eles.
 
 Variável | Tipo
 --- | ---
+troca | inteiro
+soma | inteiro
+i | inteiro
+num1 | inteiro
+num2 | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
@@ -571,10 +579,12 @@ Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/
 
 ### 3. Sequência ímpares (➗):
 
-**Situação-problema:**
+**Situação-problema:** Leia um valor inteiro X, daí mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
 
 Variável | Tipo
 --- | ---
+x | inteiro
+i | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
@@ -582,10 +592,15 @@ Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/
 
 ### 4. Dentro fora (💠):
 
-**Situação-problema:**
+**Situação-problema:** Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Mostre quantos destes valores X estão dentro do intervalo 10 a 20 e quantos estão fora do intervalo.
 
 Variável | Tipo
 --- | ---
+dentro | inteiro
+fora | inteiro
+quant | inteiro
+i | inteiro
+num | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
@@ -593,10 +608,13 @@ Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/
 
 ### 5. Par ímpar (❓):
 
-**Situação-problema:**
+**Situação-problema:** Leia um valor inteiro N. Este valor será a quantidade de números inteiros que serão lidos em seguida. Para cada valor lido, mostre uma mensagem dizendo se este valor lido é PAR ou ÍMPAR, e também se é POSITIVO ou NEGATIVO. No caso do valor ser igual a zero (0), imprima o resultado "NULO".
 
 Variável | Tipo
 --- | ---
+quant | inteiro
+i | inteiro
+num | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
@@ -604,10 +622,16 @@ Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/
 
 ### 6. Média ponderada (📑):
 
-**Situação-problema:**
+**Situação-problema:** Leia um valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de teste consiste de 3 valores reais, calcule e mostre a média ponderada, sendo que o primeiro valor tem peso 2, o segundo valor tem peso 3 e terceiro valor tem peso 5.
 
 Variável | Tipo
 --- | ---
+quant | inteiro
+i | inteiro
+num1 | decimal (flutuante)
+num2 | decimal (flutuante)
+num3 | decimal (flutuante)
+media | decimal (flutuante)
 
 Assista [aqui](#) o resultado esperado do programa.
 
@@ -615,10 +639,15 @@ Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/
 
 ### 7. Divisão (➗):
 
-**Situação-problema:**
+**Situação-problema:** Escreva um algoritmo que leia dois úmeros e imprima o resultado da divisão do primeiro pelo segundo. Caso não for possível, mostre a mensagem "DIVISÃO IMPOSSÍVEL".
 
 Variável | Tipo
 --- | ---
+quant | inteiro
+i | inteiro
+num | inteiro
+den | inteiro
+divisao | decimal (flutuante)
 
 Assista [aqui](#) o resultado esperado do programa.
 
@@ -626,10 +655,13 @@ Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/
 
 ### 8. Fatorial (❗):
 
-**Situação-problema:**
+**Situação-problema:** Faça um programa para ler um número natural (no máximo 15), e depois calcule e mostre o fatorial dele.
 
 Variável | Tipo
 --- | ---
+fat | inteiro
+n | inteiro
+i | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
@@ -637,10 +669,23 @@ Verifique as soluções nas linguagens [Python](https://github.com/ReisLeonardo/
 
 ### 9. Experiências (🧪):
 
-**Situação-problema:**
+**Situação-problema:** Leia os dados de um experimento e imprima o resultado do total e percentual.
 
-Variável | Tipo
---- | ---
+Maria acabou de iniciar seu curso de graduação na faculdade de medicina e precisa de sua ajuda para organizar os experimentos de um laboratório o qual ela é responsável. Ela quer saber no final do ano, quantas cobaias foram utilizadas no laboratório e o percentual de cada tipo de cobaia utilizada. Este laboratório em especial utiliza três tipos de cobaias: sapos, ratos e coelhos. Para obter estas informações, ela sabe exatamente o número de experimentos que foram realizados, o tipo de cobaia utilizada e a quantidade de cobaias utilizadas em cada experimento. Leia um valor inteiro N que indica os vários casos de teste que vem a seguir. Cada caso de teste contém um inteiro que representa a quantidade de cobaias utilizadas e uma letra ('C', 'R' ou 'S'), indicando o tipo de cobaia (R: Rato, S: Sapo e C: Coelho). Apresente o total de cobaias utilizadas, o total de cada tipo de cobaia utilizada e percentual de cada uma em relação ao total de cobaias utilizadas, sendo que o percentual deve ser apresentado com dois digitos após o ponto/vírgula.
+
+Variável | Tipo | Fórmula
+--- | --- | ---
+quantCoSoma | inteiro | Total de cobaias = quantidade total de coelhos + ratos + sapos
+quantCoeSoma | inteiro | Percentual = quantidade total do animal / total de cobaias x 100
+quantRaSoma | inteiro
+quantSaSoma | inteiro
+quant | inteiro
+i | inteiro
+quantCo | inteiro
+tipoCo | caractere
+percCoe | decimal (flutuante)
+percRa | decimal (flutuante)
+percSa | decimal (flutuante)
 
 Assista [aqui](#) o resultado esperado do programa.
 
