@@ -23,6 +23,7 @@ for i in range (0, quant):
     else:
         quantSaSoma = quantSaSoma + quantCo
 
+    # Total de todas as cobaias 
     totalCo = quantCoeSoma + quantRaSoma + quantSaSoma
 
     # Percentuais
