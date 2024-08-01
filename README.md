@@ -559,7 +559,7 @@ tabuada | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/tabuada.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/tabuada.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/tabuada.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/tabuada.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/tabuada.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/tabuada.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/tabuada.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/tabuada.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/tabuada.py).
 
 ### 2. Soma ímpares (➕)
 
@@ -575,7 +575,7 @@ num2 | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/soma.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/soma.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/soma.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/soma.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/soma.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/soma.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/soma.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/soma.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/soma.py).
 
 ### 3. Sequência ímpares (➗)
 
@@ -588,7 +588,7 @@ i | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/sequencia.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/sequencia.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/sequencia.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/sequencia.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/sequencia.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/sequencia.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/sequencia.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/sequencia.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/sequencia.py).
 
 ### 4. Dentro fora (💠)
 
@@ -604,7 +604,7 @@ num | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/dentro.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/dentro.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/dentro.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/dentro.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/dentro.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/dentro.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/dentro.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/dentro.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/dentro.py).
 
 ### 5. Par ímpar (❓)
 
@@ -618,7 +618,7 @@ num | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/impar.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/impar.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/impar.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/impar.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/impar.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/impar.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/impar.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/impar.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/impar.py).
 
 ### 6. Média ponderada (📑)
 
@@ -635,7 +635,7 @@ media | decimal (flutuante)
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/ponderada.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/ponderada.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/ponderada.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/ponderada.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/ponderada.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/ponderada.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/ponderada.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/ponderada.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/ponderada.py).
 
 ### 7. Divisão (➗)
 
@@ -651,7 +651,7 @@ divisao | decimal (flutuante)
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/divisao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/divisao.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/divisao.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/divisao.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/divisao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/divisao.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/divisao.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/divisao.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/divisao.py).
 
 ### 8. Fatorial (❗)
 
@@ -665,7 +665,7 @@ i | inteiro
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/fatorial.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/fatorial.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/fatorial.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/fatorial.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/fatorial.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/fatorial.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/fatorial.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/fatorial.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/fatorial.py).
 
 ### 9. Experiências (🧪)
 
@@ -689,7 +689,7 @@ percSa | decimal (flutuante)
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/experiencias.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/experiencias.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/experiencias.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/experiencias.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/experiencias.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/experiencias.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/experiencias.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/experiencias.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/experiencias.py).
 
 ## Vetores, arranjos ou arrays
 Vetores, arranjos ou arrays são estruturas de dados fundamentais na programação que permitem armazenar múltiplos valores do mesmo tipo em uma única variável. Eles são amplamente utilizados para manipular coleções de dados de forma eficiente e organizada.
