@@ -205,7 +205,7 @@ nota1 | decimal (flutuante) | soma = nota1 + nota2
 nota2 | decimal (flutuante)
 soma | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/notas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/notas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/notas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/notas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/notas.py).
 
@@ -227,7 +227,7 @@ x2 | decimal (flutuante)
 * Delta não pode ser negativo.
 * Coeficiente "a" não pode ser zero.
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/baskara.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/baskara.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/baskara.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/baskara.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/baskara.py).
 
@@ -244,7 +244,7 @@ valor2 | inteiro
 valor3 | inteiro
 menor | inteiro
 
-**Resultado esperado:** O menor valor é {menor}.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/menor.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/menor.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/menor.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/menor.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/menor.py).
 
@@ -260,7 +260,7 @@ minutos | inteiro | gasto = 2 * (minutos - 100)
 pagar | inteiro
 gasto | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/operadora.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/operadora.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/operadora.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/operadora.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/operadora.py).
 
@@ -276,7 +276,7 @@ unidade | decimal (flutuante) | total = unidade x quantidade
 quantidade | inteiro | troco = recebido - total
 recebido | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/troco.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/troco.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/troco.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/troco.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/troco.py).
 
@@ -297,7 +297,7 @@ Variável | Tipo
 glicose | decimal (flutuante)
 classificacao | caractere
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/glicose.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/glicose.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/glicose.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/glicose.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/glicose.py).
 
@@ -314,7 +314,7 @@ distancia2 | decimal (flutuante)
 distancia3 | decimal (flutuante)
 maior | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/dardo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/dardo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/dardo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/dardo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/dardo.py).
 
@@ -332,7 +332,7 @@ celsiustof | decimal (flutuante)
 fahrenheit | decimal (flutuante)
 fahrenheittoc | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/temperatura.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/temperatura.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/temperatura.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/temperatura.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/temperatura.py).
 
@@ -356,7 +356,7 @@ codigo | inteiro
 pagar | decimal (flutuante)
 quantidade | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/lanchonete.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/lanchonete.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/lanchonete.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/lanchonete.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/lanchonete.py).
 
@@ -371,7 +371,7 @@ Variável | Tipo | Fórmula
 x | inteiro | Se o resto da divisão for 0 é múltiplo
 y | inteiro | Se o resto da divisão for 0 não é múltiplo
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/multiplos.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/multiplos.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/multiplos.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/multiplos.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/multiplos.py).
 
@@ -395,7 +395,7 @@ porcentagem | inteiro ou decimal | novo salário = salario + aumento
 aumento | decimal (flutuante)
 novosalario | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/aumento.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/aumento.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/aumento.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/aumento.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/aumento.py).
 
@@ -411,8 +411,7 @@ horaInicial | inteiro | Se menor que 24, hora = (24 - horainicial) + horaFinal
 horaFinal | inteiro | Se maior que 24, hora = hora - 24
 hora | inteiro
 
-
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/tempo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/tempo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/tempo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/tempo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/tempo.py).
 
@@ -427,7 +426,7 @@ Variável | Tipo
 x | decimal (flutuante)
 y | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/coordenadas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/coordenadas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/coordenadas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/coordenadas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/coordenadas.py).
 
