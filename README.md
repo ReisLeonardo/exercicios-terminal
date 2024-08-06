@@ -31,7 +31,7 @@ metroquadrado | decimal (flutuante)
 area | decimal (flutuante)
 preço | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/terreno.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/terreno.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/terreno.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/terreno.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/tereno.py).
 
@@ -49,7 +49,7 @@ area | decimal (flutuante) | Diagonal = raíz de base²+altura²
 perimetro | decimal (flutuante)
 diagonal | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/retangulo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/retangulo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/retangulo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/retangulo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/retangulo.py).
 
@@ -65,7 +65,7 @@ idade1 | inteiro
 idade2 | inteiro
 mediaidade | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/idades.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/idades.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/idades.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/idades.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/idades.py).
 
@@ -82,7 +82,7 @@ x | inteiro | Soma = x + y
 y | inteiro | 
 soma | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/soma.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/soma.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/soma.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/soma.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/soma.py).
 
@@ -100,7 +100,7 @@ dinheiroRecebido | decimal (flutuante)
 troco | decimal (flutuante)
 quantidade | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/troco.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/troco.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/troco.cs), [Java]([#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/troco.java)) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/troco.py).
 
@@ -115,7 +115,7 @@ Variável | Tipo | Fórmula
 raio | decimal (flutuante) | Área = π x r²
 area | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/c%C3%ADrculo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/circulo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/circulo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/circulo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/circulo.py).
 
@@ -132,7 +132,7 @@ valorHora | decimal (flutuante)
 pagamento | decimal (flutuante)
 horaTrabalhada | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/pagamento.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/pagamento.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/pagamento.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/pagamento.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/pagamento.py).
 
@@ -148,7 +148,7 @@ distanciaPercorrida | inteiro | Consumo médio = distância percorrida / combust
 combustivelGasto | decimal (flutuante)
 consumoMedio | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/consumo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/consumo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/consumo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/consumo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/consumo.py).
 
@@ -167,7 +167,7 @@ areaQuadrado | decimal (flutuante)
 areaTriangulo | decimal (flutuante)
 areaTrapezio | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/medidas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/medidas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/medidas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/medidas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/medidas.py).
 
@@ -185,7 +185,7 @@ resto | inteiro | Minuto = resto / 60
 minuto | inteiro | Segundo = resto % 60 (resto da divisão)
 segundo | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/duracao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/duracao.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/duracao.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/duracao.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/duracao.py).
 
