@@ -696,18 +696,149 @@ Vetores, arranjos ou arrays são estruturas de dados fundamentais na programaç�
 Os vetores são fundamentais para lidar com conjuntos de dados estruturados e são amplamente utilizados em algoritmos de classificação, pesquisa, processamento de imagens, entre outras aplicações na ciência da computação.
 
 ### Exercícios
-1. Lorem Ipsum
-2. Lorem Ipsum
-3. Lorem Ipsum
-4. Lorem Ipsum
-5. Lorem Ipsum
-6. Lorem Ipsum
-7. Lorem Ipsum
-8. Lorem Ipsum
-9. Lorem Ipsum
-10. Lorem Ipsum
-11. Lorem Ipsum
-12. Lorem Ipsum
+### 1. Negativos
+
+**Situação-problema:** Leia um número inteiro positivo N (máximo = 10) e depois N números inteiros e armazene-os em um vetor. Em seguida, mostre na tela todos os números negativos lidos.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 2. Soma vetor
+
+**Situação-problema:** Leia N números reais e armazene-os em um vetor. Em seguida, imprima todos os elementos do vetor e mostre na tela a soma e a média dos elementos do vetor.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 3. Alturas
+
+**Situação-problema:** Leia nome, idade e altura de N pessoas. Depois, mostre na tela a altura média das pessoas, e mostre também a porcentagem de pessoas com menos de 16 anos, bem como os nomes dessas pessoas (caso houver).
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 4. Números pares
+
+**Situação-problema:** Leia N números inteiros e armazene-os em um vetor. Em seguida, mostre na tela todos os números pares, e também a quantidade de números pares.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 5. Maior posição
+
+**Situação-problema:** Leia N números reais e armazene-os em um vetor. Em seguida, mostre na tela o maior número do vetor (supor não haver empates). Mostre também a posição do maior elemento, considerando a primeira posição como 0 (zero).
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 6. Soma vetores
+
+**Situação-problema:** Leia dois vetores A e B, contendo N elementos cada. Em seguida, gere um terceiro vetor C onde cada elemento de C é a soma dos elementos correspondentes de A e B. Imprima o vetor C gerado.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 7. Abaixo da média (📉)
+
+**Situação-problema:** Leia um número inteiro N e depois um vetor de N números reais. Em seguida, mostre na tela a média aritmética de todos elementos com três casas decimais. Depois motrar todos os elementos do vetor que estejam abaixo da média, com uma casa decimal cada.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 8. Média pares
+
+**Situação-problema:** Leia um vetor de N números inteiros. Em seguida, mostre na tela a média aritmética somente dos números pares lidos, com uma casa decimal. Se nenhum número par for digitado, mostre a mensagem "NENHUM NÚMERO PAR".
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 9. Mais velho (🧓)
+
+**Situação-problema:** Leia um conjunto de nomes de pessoas e suas respectivas ideas. Os nomes devem ser armazenados em um vetor, e as idades em um outro vetor. Depois, mostre na tela o nome da pessoa mais velha.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 10. Aprovados (✔️)
+
+**Situação-problema:** Leia um conjunto de N nomes de alunos, bem como as notas que eles tiraram no 1º e 2º semestres. Cada uma dessas informações deve ser armazenada em um vetor. Depois, imprima os nomes dos alunos aprovados, considerando aprovados aqueles cuja média das notas seja maior ou igual a 6.0 (seis).
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 11. Dados pessoas (🧑‍🤝‍🧑)
+
+**Situação-problema:** Tem=se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Faça um programa que calcule e escreva a maior e a menor altura do grupo, a média da altura das mulheres e o número de homens.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 12. Comerciante (🛒)
+
+**Situação-problema:** Um comerciante deseja fazer o levantamento do lucro das mercadorias que ele comercializa. Para isto, mandou digitar um conjunto de N mercadorias, cada uma contendo nome, preço de compra e preço de venda das mesmas. Faça um programa que leia tais dados e determine e escreva quantas mercadoriais proporcionaram lucro abaixo de 10%, lucro entre 10% a 20% e lucro acima de 20%. Determine e escreva também o valro total de compra e de venda de todas as mercadorias, assim como o lucro total.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
 
 ## Matrizes, arranjos ou arrays
 Matrizes, arranjos ou arrays bidimensionais são estruturas de dados que estendem os conceitos dos vetores para duas dimensões. Em vez de uma única linha de elementos, as matrizes são organizadas em linhas e colunas, formando uma grade retangular de valores do mesmo tipo. Essa estrutura permite representar dados tabulares ou estruturados em forma de grades, facilitando operações que envolvem conjuntos de dados organizados em múltiplas dimensões.
