@@ -706,7 +706,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/negativos.py).
 
 ### 2. Soma vetor
 
@@ -718,7 +718,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/soma.py).
 
 ### 3. Alturas
 
@@ -730,7 +730,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/alturas.py).
 
 ### 4. Números pares
 
