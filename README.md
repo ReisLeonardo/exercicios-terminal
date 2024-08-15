@@ -31,7 +31,7 @@ metroquadrado | decimal (flutuante)
 area | decimal (flutuante)
 preço | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/terreno.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/terreno.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/terreno.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/terreno.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/tereno.py).
 
@@ -49,7 +49,7 @@ area | decimal (flutuante) | Diagonal = raíz de base²+altura²
 perimetro | decimal (flutuante)
 diagonal | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/retangulo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/retangulo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/retangulo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/retangulo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/retangulo.py).
 
@@ -65,7 +65,7 @@ idade1 | inteiro
 idade2 | inteiro
 mediaidade | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/idades.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/idades.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/idades.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/idades.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/idades.py).
 
@@ -82,7 +82,7 @@ x | inteiro | Soma = x + y
 y | inteiro | 
 soma | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/soma.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/soma.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/soma.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/soma.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/soma.py).
 
@@ -100,7 +100,7 @@ dinheiroRecebido | decimal (flutuante)
 troco | decimal (flutuante)
 quantidade | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/troco.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/troco.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/troco.cs), [Java]([#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/troco.java)) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/troco.py).
 
@@ -115,7 +115,7 @@ Variável | Tipo | Fórmula
 raio | decimal (flutuante) | Área = π x r²
 area | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/c%C3%ADrculo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/circulo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/circulo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/circulo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/circulo.py).
 
@@ -132,7 +132,7 @@ valorHora | decimal (flutuante)
 pagamento | decimal (flutuante)
 horaTrabalhada | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/pagamento.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/pagamento.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/pagamento.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/pagamento.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/pagamento.py).
 
@@ -148,7 +148,7 @@ distanciaPercorrida | inteiro | Consumo médio = distância percorrida / combust
 combustivelGasto | decimal (flutuante)
 consumoMedio | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/consumo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/consumo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/consumo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/consumo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/consumo.py).
 
@@ -167,7 +167,7 @@ areaQuadrado | decimal (flutuante)
 areaTriangulo | decimal (flutuante)
 areaTrapezio | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/medidas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/medidas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/medidas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/medidas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/medidas.py).
 
@@ -185,7 +185,7 @@ resto | inteiro | Minuto = resto / 60
 minuto | inteiro | Segundo = resto % 60 (resto da divisão)
 segundo | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://www.youtube.com/watch?v=aNSAyK0rMiw) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20sequencial/duracao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20sequencial/duracao.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20sequencial/duracao.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20sequencial/duracao.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20sequencial/duracao.py).
 
@@ -205,7 +205,7 @@ nota1 | decimal (flutuante) | soma = nota1 + nota2
 nota2 | decimal (flutuante)
 soma | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/notas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/notas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/notas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/notas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/notas.py).
 
@@ -227,7 +227,7 @@ x2 | decimal (flutuante)
 * Delta não pode ser negativo.
 * Coeficiente "a" não pode ser zero.
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/baskara.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/baskara.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/baskara.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/baskara.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/baskara.py).
 
@@ -244,7 +244,7 @@ valor2 | inteiro
 valor3 | inteiro
 menor | inteiro
 
-**Resultado esperado:** O menor valor é {menor}.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/menor.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/menor.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/menor.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/menor.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/menor.py).
 
@@ -260,7 +260,7 @@ minutos | inteiro | gasto = 2 * (minutos - 100)
 pagar | inteiro
 gasto | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/operadora.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/operadora.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/operadora.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/operadora.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/operadora.py).
 
@@ -276,7 +276,7 @@ unidade | decimal (flutuante) | total = unidade x quantidade
 quantidade | inteiro | troco = recebido - total
 recebido | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/troco.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/troco.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/troco.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/troco.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/troco.py).
 
@@ -297,7 +297,7 @@ Variável | Tipo
 glicose | decimal (flutuante)
 classificacao | caractere
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/glicose.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/glicose.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/glicose.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/glicose.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/glicose.py).
 
@@ -314,7 +314,7 @@ distancia2 | decimal (flutuante)
 distancia3 | decimal (flutuante)
 maior | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/dardo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/dardo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/dardo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/dardo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/dardo.py).
 
@@ -332,7 +332,7 @@ celsiustof | decimal (flutuante)
 fahrenheit | decimal (flutuante)
 fahrenheittoc | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/temperatura.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/temperatura.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/temperatura.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/temperatura.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/temperatura.py).
 
@@ -356,7 +356,7 @@ codigo | inteiro
 pagar | decimal (flutuante)
 quantidade | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/lanchonete.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/lanchonete.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/lanchonete.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/lanchonete.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/lanchonete.py).
 
@@ -371,7 +371,7 @@ Variável | Tipo | Fórmula
 x | inteiro | Se o resto da divisão for 0 é múltiplo
 y | inteiro | Se o resto da divisão for 0 não é múltiplo
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/multiplos.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/multiplos.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/multiplos.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/multiplos.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/multiplos.py).
 
@@ -395,7 +395,7 @@ porcentagem | inteiro ou decimal | novo salário = salario + aumento
 aumento | decimal (flutuante)
 novosalario | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/aumento.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/aumento.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/aumento.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/aumento.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/aumento.py).
 
@@ -411,8 +411,7 @@ horaInicial | inteiro | Se menor que 24, hora = (24 - horainicial) + horaFinal
 horaFinal | inteiro | Se maior que 24, hora = hora - 24
 hora | inteiro
 
-
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/tempo.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/tempo.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/tempo.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/tempo.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/tempo.py).
 
@@ -427,7 +426,7 @@ Variável | Tipo
 x | decimal (flutuante)
 y | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/BAxtPUnU3sw?si=J1zv5nuFj2yn5zt-) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20condicional/coordenadas.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20condicional/coordenadas.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20condicional/coordenadas.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20condicional/coordenadas.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20condicional/coordenadas.py).
 
@@ -447,7 +446,7 @@ Variável | Tipo
 x | inteiro
 y | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/5xLTeIc7KE8) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/crescente.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/crescente.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/crescente.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/crescente.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/crescente.py).
 
@@ -464,7 +463,7 @@ contador | inteiro
 idade | inteiro
 media | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/5xLTeIc7KE8) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/media.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/media.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/media.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/media.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/media.py).
 
@@ -478,7 +477,7 @@ Variável | Tipo
 --- | ---
 senha | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/5xLTeIc7KE8) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/senha.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/senha.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/senha.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/senha.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/senha.py).
 
@@ -493,7 +492,7 @@ Variável | Tipo
 x | inteiro
 y | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/5xLTeIc7KE8) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/quadrante.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/quadrante.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/quadrante.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/quadrante.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/quadrante.py).
 
@@ -509,7 +508,7 @@ nota1 | decimal (flutuante) | Média = nota1 + nota2 / 2
 nota2 | decimal (flutuante)
 media | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/5xLTeIc7KE8) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/validacao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/validacao.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/validacao.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/validacao.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/validacao.py).
 
@@ -526,7 +525,7 @@ alcool | inteiro
 gasolina | inteiro
 diesel | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/5xLTeIc7KE8) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/combustivel.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/combustivel.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/combustivel.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/combustivel.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/combustivel.py).
 
@@ -541,7 +540,7 @@ Variável | Tipo
 numero | inteiro
 soma | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/5xLTeIc7KE8) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/pares.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/pares.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/pares.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/pares.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/pares.py).
 
@@ -557,9 +556,9 @@ n | inteiro
 i | inteiro
 tabuada | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/tabuada.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/tabuada.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/tabuada.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/tabuada.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/tabuada.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/tabuada.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/tabuada.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/tabuada.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/tabuada.py).
 
 ### 2. Soma ímpares (➕)
 
@@ -573,9 +572,9 @@ i | inteiro
 num1 | inteiro
 num2 | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/soma.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/soma.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/soma.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/soma.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/soma.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/soma.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/soma.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/soma.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/soma.py).
 
 ### 3. Sequência ímpares (➗)
 
@@ -586,9 +585,9 @@ Variável | Tipo
 x | inteiro
 i | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/sequencia.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/sequencia.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/sequencia.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/sequencia.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/sequencia.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/sequencia.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/sequencia.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/sequencia.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/sequencia.py).
 
 ### 4. Dentro fora (💠)
 
@@ -602,9 +601,9 @@ quant | inteiro
 i | inteiro
 num | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/dentro.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/dentro.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/dentro.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/dentro.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/dentro.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/dentro.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/dentro.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/dentro.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/dentro.py).
 
 ### 5. Par ímpar (❓)
 
@@ -616,9 +615,9 @@ quant | inteiro
 i | inteiro
 num | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/impar.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/impar.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/impar.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/impar.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/impar.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/impar.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/impar.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/impar.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/impar.py).
 
 ### 6. Média ponderada (📑)
 
@@ -633,9 +632,9 @@ num2 | decimal (flutuante)
 num3 | decimal (flutuante)
 media | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/ponderada.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/ponderada.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/ponderada.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/ponderada.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/ponderada.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/ponderada.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/ponderada.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/ponderada.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/ponderada.py).
 
 ### 7. Divisão (➗)
 
@@ -649,9 +648,9 @@ num | inteiro
 den | inteiro
 divisao | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/divisao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/divisao.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/divisao.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/divisao.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/divisao.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/divisao.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/divisao.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/divisao.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/divisao.py).
 
 ### 8. Fatorial (❗)
 
@@ -663,9 +662,9 @@ fat | inteiro
 n | inteiro
 i | inteiro
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/fatorial.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/fatorial.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/fatorial.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/fatorial.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/fatorial.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/fatorial.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/fatorial.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/fatorial.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/fatorial.py).
 
 ### 9. Experiências (🧪)
 
@@ -687,9 +686,9 @@ percCoe | decimal (flutuante)
 percRa | decimal (flutuante)
 percSa | decimal (flutuante)
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/TAwGROXB7Pw) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/experiencias.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/experiencias.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/experiencias.cs) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/experiencias.py).
+Verifique as soluções nas linguagens [C](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C/Estrutura%20repetitiva/experiencias.c), [C++](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%2B%2B/Estrutura%20repetitiva/experiencias.cpp), [C#](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/C%23/Estrutura%20repetitiva/experiencias.cs), [Java](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Java/Estrutura%20repetitiva/experiencias.java) e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Estrutura%20repetitiva/experiencias.py).
 
 ## Vetores, arranjos ou arrays
 Vetores, arranjos ou arrays são estruturas de dados fundamentais na programação que permitem armazenar múltiplos valores do mesmo tipo em uma única variável. Eles são amplamente utilizados para manipular coleções de dados de forma eficiente e organizada.
@@ -697,18 +696,149 @@ Vetores, arranjos ou arrays são estruturas de dados fundamentais na programaç�
 Os vetores são fundamentais para lidar com conjuntos de dados estruturados e são amplamente utilizados em algoritmos de classificação, pesquisa, processamento de imagens, entre outras aplicações na ciência da computação.
 
 ### Exercícios
-1. Lorem Ipsum
-2. Lorem Ipsum
-3. Lorem Ipsum
-4. Lorem Ipsum
-5. Lorem Ipsum
-6. Lorem Ipsum
-7. Lorem Ipsum
-8. Lorem Ipsum
-9. Lorem Ipsum
-10. Lorem Ipsum
-11. Lorem Ipsum
-12. Lorem Ipsum
+### 1. Negativos
+
+**Situação-problema:** Leia um número inteiro positivo N (máximo = 10) e depois N números inteiros e armazene-os em um vetor. Em seguida, mostre na tela todos os números negativos lidos.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 2. Soma vetor
+
+**Situação-problema:** Leia N números reais e armazene-os em um vetor. Em seguida, imprima todos os elementos do vetor e mostre na tela a soma e a média dos elementos do vetor.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 3. Alturas
+
+**Situação-problema:** Leia nome, idade e altura de N pessoas. Depois, mostre na tela a altura média das pessoas, e mostre também a porcentagem de pessoas com menos de 16 anos, bem como os nomes dessas pessoas (caso houver).
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 4. Números pares
+
+**Situação-problema:** Leia N números inteiros e armazene-os em um vetor. Em seguida, mostre na tela todos os números pares, e também a quantidade de números pares.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 5. Maior posição
+
+**Situação-problema:** Leia N números reais e armazene-os em um vetor. Em seguida, mostre na tela o maior número do vetor (supor não haver empates). Mostre também a posição do maior elemento, considerando a primeira posição como 0 (zero).
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 6. Soma vetores
+
+**Situação-problema:** Leia dois vetores A e B, contendo N elementos cada. Em seguida, gere um terceiro vetor C onde cada elemento de C é a soma dos elementos correspondentes de A e B. Imprima o vetor C gerado.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 7. Abaixo da média (📉)
+
+**Situação-problema:** Leia um número inteiro N e depois um vetor de N números reais. Em seguida, mostre na tela a média aritmética de todos elementos com três casas decimais. Depois motrar todos os elementos do vetor que estejam abaixo da média, com uma casa decimal cada.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 8. Média pares
+
+**Situação-problema:** Leia um vetor de N números inteiros. Em seguida, mostre na tela a média aritmética somente dos números pares lidos, com uma casa decimal. Se nenhum número par for digitado, mostre a mensagem "NENHUM NÚMERO PAR".
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 9. Mais velho (🧓)
+
+**Situação-problema:** Leia um conjunto de nomes de pessoas e suas respectivas ideas. Os nomes devem ser armazenados em um vetor, e as idades em um outro vetor. Depois, mostre na tela o nome da pessoa mais velha.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 10. Aprovados (✔️)
+
+**Situação-problema:** Leia um conjunto de N nomes de alunos, bem como as notas que eles tiraram no 1º e 2º semestres. Cada uma dessas informações deve ser armazenada em um vetor. Depois, imprima os nomes dos alunos aprovados, considerando aprovados aqueles cuja média das notas seja maior ou igual a 6.0 (seis).
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 11. Dados pessoas (🧑‍🤝‍🧑)
+
+**Situação-problema:** Tem=se um conjunto de dados contendo a altura e o gênero (M, F) de N pessoas. Faça um programa que calcule e escreva a maior e a menor altura do grupo, a média da altura das mulheres e o número de homens.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+
+### 12. Comerciante (🛒)
+
+**Situação-problema:** Um comerciante deseja fazer o levantamento do lucro das mercadorias que ele comercializa. Para isto, mandou digitar um conjunto de N mercadorias, cada uma contendo nome, preço de compra e preço de venda das mesmas. Faça um programa que leia tais dados e determine e escreva quantas mercadoriais proporcionaram lucro abaixo de 10%, lucro entre 10% a 20% e lucro acima de 20%. Determine e escreva também o valro total de compra e de venda de todas as mercadorias, assim como o lucro total.
+
+Variável | Tipo
+--- | --- 
+Lorem Ipsum | Lorem Ipsum
+
+Assista [aqui](#) o resultado esperado do programa.
+
+Verifique as soluções nas linguagens C, C++, C#, Java e Python.
 
 ## Matrizes, arranjos ou arrays
 Matrizes, arranjos ou arrays bidimensionais são estruturas de dados que estendem os conceitos dos vetores para duas dimensões. Em vez de uma única linha de elementos, as matrizes são organizadas em linhas e colunas, formando uma grade retangular de valores do mesmo tipo. Essa estrutura permite representar dados tabulares ou estruturados em forma de grades, facilitando operações que envolvem conjuntos de dados organizados em múltiplas dimensões.
