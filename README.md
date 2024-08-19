@@ -742,7 +742,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/numeros.py).
 
 ### 5. Maior posição
 
@@ -754,7 +754,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/maior.py).
 
 ### 6. Soma vetores
 
@@ -766,7 +766,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/vetores.py).
 
 ### 7. Abaixo da média (📉)
 
