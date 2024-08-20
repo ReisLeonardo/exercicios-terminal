@@ -778,7 +778,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/abaixo.py).
 
 ### 8. Média pares
 
@@ -790,7 +790,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/media.py).
 
 ### 9. Mais velho (🧓)
 
@@ -802,7 +802,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/mais.py).
 
 ### 10. Aprovados (✔️)
 
