@@ -814,7 +814,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/aprovados.py).
 
 ### 11. Dados pessoas (🧑‍🤝‍🧑)
 
@@ -826,7 +826,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/dados.py).
 
 ### 12. Comerciante (🛒)
 
@@ -838,7 +838,7 @@ Lorem Ipsum | Lorem Ipsum
 
 Assista [aqui](#) o resultado esperado do programa.
 
-Verifique as soluções nas linguagens C, C++, C#, Java e Python.
+Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/comerciante.py).
 
 ## Matrizes, arranjos ou arrays
 Matrizes, arranjos ou arrays bidimensionais são estruturas de dados que estendem os conceitos dos vetores para duas dimensões. Em vez de uma única linha de elementos, as matrizes são organizadas em linhas e colunas, formando uma grade retangular de valores do mesmo tipo. Essa estrutura permite representar dados tabulares ou estruturados em forma de grades, facilitando operações que envolvem conjuntos de dados organizados em múltiplas dimensões.
