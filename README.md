@@ -704,7 +704,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/negativos.py).
 
@@ -716,7 +716,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/soma.py).
 
@@ -728,7 +728,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/alturas.py).
 
@@ -740,7 +740,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/numeros.py).
 
@@ -752,7 +752,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/maior.py).
 
@@ -764,7 +764,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/vetores.py).
 
@@ -776,7 +776,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/abaixo.py).
 
@@ -788,7 +788,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/media.py).
 
@@ -800,7 +800,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/mais.py).
 
@@ -812,7 +812,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/aprovados.py).
 
@@ -824,7 +824,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/dados.py).
 
@@ -836,7 +836,7 @@ Variável | Tipo
 --- | --- 
 Lorem Ipsum | Lorem Ipsum
 
-Assista [aqui](#) o resultado esperado do programa.
+Assista [aqui](https://youtu.be/NReGiAXsUMg) o resultado esperado do programa.
 
 Verifique as soluções nas linguagens C, C++, C#, Java e [Python](https://github.com/ReisLeonardo/exercicios-terminal/blob/main/Python/Arranjos%20vetoriais/comerciante.py).
 
